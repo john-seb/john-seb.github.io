@@ -19,10 +19,6 @@ a:hover {
     text-decoration: none;
     color: #fa8072;
 }
-a:visited {
-    text-decoration: none;
-    color: #fa8072;
-}
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
