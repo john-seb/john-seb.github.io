@@ -6,11 +6,11 @@ nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
+    margin-bottom: 40px;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    margin-bottom: 40px;
 }
 a {
     text-decoration: none;
