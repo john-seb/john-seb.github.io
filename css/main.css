@@ -6,7 +6,7 @@ nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 }
 nav ul li, footer ul li {
     display: inline;
