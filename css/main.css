@@ -31,6 +31,7 @@ p {
     line-height: 1.4em;
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
+    overflow: scroll;
 }
 footer {
     border-top: 1px solid #d5d5d5;
