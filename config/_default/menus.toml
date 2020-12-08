@@ -19,8 +19,9 @@
   weight = 30
   
 [[main]]
+   name = "Blog: StoryGrapher"
    url = "https://storygrapher.github.io/"
-   # weight = 70
+   weight = 40
 
 #[[main]]
  # name = "Blog"
