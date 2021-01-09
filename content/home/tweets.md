@@ -74,8 +74,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- <a class="twitter-timeline" href="https://twitter.com/johnmcseb?ref_src=twsrc%5Etfw">Tweets by johnmcseb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+ <body>
+    {{ partial "header.html" . }}
+    <div class="twitter">
+            <a class="twitter-timeline" href="https://twitter.com/johnmcseb?ref_src=twsrc%5Etfw">Tweets by johnmcseb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
+    <div class="container wrapper">
+	</div class>
+</body>
 
 
 +++
