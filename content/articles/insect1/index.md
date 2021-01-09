@@ -2,10 +2,10 @@
 title: Notes: Circulation in Insect Wings- Mary Salcedo
 author:
 - affiliation: Virginia Tech
-  email: msalcedo@vt.edu
+  #email: msalcedo@vt.edu
   name: Mary K Salcedo
-- affiliation: Virginia Tech
-  name: John J Socha
+#- affiliation: Virginia Tech
+#  name: John J Socha
 date: "October 2020"
 #event_url: https://example.org
 
