@@ -1,21 +1,27 @@
 ---
-title: Film-Evaporation Microthruster for Cubesats
-#event: CET, 2016
+title: Notes: Circulation in Insect Wings- Mary Salcedo
+author:
+- affiliation: Virginia Tech
+  email: msalcedo@vt.edu
+  name: Mary K Salcedo
+- affiliation: Virginia Tech
+  name: John J Socha
+date: "October 2020"
 #event_url: https://example.org
 
-location: College of Engineering Trivandrum
+#location: Source Themes HQ
 
 #address:
   #street: 450 Serra Mall
 
-summary: A review of the state of the art in microthruster technology
-abstract: "Reaction Control systems for attitute control of small sattelites are discussed. The use of microthrusters reduce the quatintity of propulsive matter significantly from the payload. The basic principles are introduced and the latest developments are reviewed."
+summary: A talk presenting the current works and potential of microfludics as an enabling technology
+abstract: ""
 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2016-04-11"
+date: "2016-04-19"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -38,7 +44,7 @@ links:
   name: Follow
   url: https://twitter.com/johnmcseb
 url_code: ""
-url_pdf: "https://john-seb.github.io/media/microt1.pdf"
+url_pdf: "https://john-seb.github.io/media/microf1.pdf"
 url_slides: ""
 url_video: ""
 
@@ -76,8 +82,8 @@ math: true
 
 
 ---
-<object data="https://john-seb.github.io/media/microt1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://john-seb.github.io/media/microt1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/media/microt1.pdf">Download PDF</a>.</p>
+<object data="https://john-seb.github.io/media/microf1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://john-seb.github.io/media/microf1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/media/microf1.pdf">Download PDF</a>.</p>
     </embed>
 </object>
