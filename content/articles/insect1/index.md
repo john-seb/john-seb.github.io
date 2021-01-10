@@ -1,5 +1,5 @@
 ---
-title: Notes: Circulation in Insect Wings- Mary Salcedo
+title: 'Notes: Circulation in Insect Wings- Mary Salcedo'
 author:
 - affiliation: Virginia Tech
   #email: msalcedo@vt.edu
@@ -39,12 +39,12 @@ featured: false
   #focal_point: Right
 
 links:
-- icon: twitter
+- icon: link
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/johnmcseb
+  name: DOI
+  url: https://doi.org/10.1093/icb/icaa124
 url_code: ""
-url_pdf: "https://john-seb.github.io/media/microf1.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
