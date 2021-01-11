@@ -93,6 +93,21 @@
   </url>
   
   <url>
+    <loc>https://john-seb.github.io/articles/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/articles/insect1/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/articles/smallbus/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://john-seb.github.io/tag/memories/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -153,6 +168,16 @@
   </url>
   
   <url>
+    <loc>https://john-seb.github.io/talk/treadpatterns/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/talk/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://john-seb.github.io/tag/microengineering/</loc>
     <lastmod>2016-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -174,11 +199,6 @@
   
   <url>
     <loc>https://john-seb.github.io/talk/microf1/</loc>
-    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/talk/</loc>
     <lastmod>2016-04-19T00:00:00+00:00</lastmod>
   </url>
   

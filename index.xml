@@ -61,6 +61,28 @@
     </item>
     
     <item>
+      <title>Notes: Circulation in Insect Wings- Mary Salcedo</title>
+      <link>https://john-seb.github.io/articles/insect1/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/insect1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebuilding Schedules from Independent Observations: Rural Bus Timings</title>
+      <link>https://john-seb.github.io/articles/smallbus/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/smallbus/</guid>
+      <description>&lt;h3 id=&#34;premise&#34;&gt;Premise:&lt;/h3&gt;
+&lt;div class=text-justify&gt; 
+&lt;p&gt;It might seem intuitive to use Google Maps to look at public transport schedules in cities. But services to the suburbs and rural flanks of metros are still not captured digitally.
+When I moved to an apartment in the suburbs, this was one tiny inconvenience. My solution was to simply capture the time, direction and location of these &amp;lsquo;Small Bus&amp;rsquo; services on a Google Sheet whenever I spotted one on the road. 
+In two weeks I was able to predict the arrival of a bus at a given time quite reliably. This met my requirements. But I&amp;rsquo;d need to recreate the schedule if it were to be useful to everyone in the neighbourhood.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Take Fotos, Leave Footprints</title>
       <link>https://john-seb.github.io/gallery/travel/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -393,6 +415,18 @@ Three
 &lt;p&gt;&lt;em&gt;As told to friends at the &amp;ldquo;Bloom in Green&amp;rdquo; festival in the beautiful Agumbe, Karnataka, India. The landscape reminded me of home.&lt;/em&gt;
 &lt;em&gt;Published originally on &lt;a href=&#34;http://www.storygrapher.org&#34;&gt;www.storygrapher.org&lt;/a&gt;, ©John Sebastian&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>On Tread Patterns: Parameterisation and Inverse Design</title>
+      <link>https://john-seb.github.io/talk/treadpatterns/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/talk/treadpatterns/</guid>
+      <description>&lt;object data=&#34;https://john-seb.github.io/media/On_Tread_Patterns.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+    &lt;embed src=&#34;https://john-seb.github.io/media/On_Tread_Patterns.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/media/On_Tread_Patterns.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;</description>
     </item>
     
     <item>
