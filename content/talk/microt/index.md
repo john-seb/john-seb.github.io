@@ -33,10 +33,6 @@ featured: false
   #focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/johnmcseb
 url_code: ""
 url_pdf: "https://john-seb.github.io/media/microt1.pdf"
 url_slides: ""
