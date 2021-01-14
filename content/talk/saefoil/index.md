@@ -33,8 +33,17 @@ featured: false
   #focal_point: Right
 
 links:
+- icon: bug 
+  icon_pack: fas
+  name: FOIL
+  url: https://john-seb.github.io/media/foil1.pdf
+ 
+- icon: bug 
+  icon_pack: fas
+  name: Wind Tunnel
+  url: https://john-seb.github.io/media/foil2.pdf
 url_code: ""
-url_pdf: "https://john-seb.github.io/media/microf1.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -73,6 +82,13 @@ math: true
 
 ---
 <object data="https://john-seb.github.io/media/foil1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://john-seb.github.io/media/foil1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/media/microf1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+# Afternoon Session: Testing Wings- History, Theory and Practice of Wind Tunnel Testing
+<object data="https://john-seb.github.io/media/foil2.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://john-seb.github.io/media/foil2.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/media/microf1.pdf">Download PDF</a>.</p>
     </embed>
