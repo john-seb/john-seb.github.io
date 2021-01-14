@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>academic | John Sebastian</title>
+    <link>https://john-seb.github.io/tag/academic/</link>
+      <atom:link href="https://john-seb.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://john-seb.github.io/media/prof.jpeg</url>
+      <title>academic</title>
+      <link>https://john-seb.github.io/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>Detection of Microplastics in Inland Waters using Impedance Spectroscopy</title>
+      <link>https://john-seb.github.io/project/microp/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/project/microp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
