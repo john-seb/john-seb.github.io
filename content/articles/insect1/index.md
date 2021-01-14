@@ -44,5 +44,5 @@ math: true
 summary: Notes and observations on this interesting treatise. I personally found that the research space resonates with my own interests.
 abstract: ""
 
-active: false
+active: true
 ---

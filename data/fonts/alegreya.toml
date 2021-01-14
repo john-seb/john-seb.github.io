@@ -7,6 +7,6 @@ google_fonts = "Philosopher:400,700|Merriweather|Montserrat+Alternates|Acme"
 # Font families
 
 heading_font = "Philosopher"
-body_font = "Acme"
+body_font = "Merriweather"
 nav_font = "Montserrat Alternates"
-mono_font = "Philosopher"
+mono_font = "Merriweather"
