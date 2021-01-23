@@ -8,7 +8,7 @@
   
   
   
-  <meta name="generator" content="Wowchemy 5.0.0-beta.0 for Hugo">
+  <meta name="generator" content="Wowchemy 5.0.0-beta.2 for Hugo">
   
 
   
@@ -78,7 +78,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -89,8 +89,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
@@ -234,6 +234,7 @@
       
       
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Georgia%7CMerriweather%7CMontserrat+Alternates&display=swap">
+      
     
   
 
@@ -241,7 +242,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.a3a3cf9ffb220db0a7451f0f126dbc52.css">
 
   
 
@@ -260,9 +262,12 @@
   <link rel="alternate" href="/talk/index.xml" type="application/rss+xml" title="John Sebastian">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_huc1db109fd7e63e30d5d3e3dd5b193ded_1408279_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc1db109fd7e63e30d5d3e3dd5b193ded_1408279_192x192_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc1db109fd7e63e30d5d3e3dd5b193ded_1408279_180x180_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://john-seb.github.io/talk/">
 
@@ -315,12 +320,15 @@
   
   
   
-    <script>const isSiteThemeDark = false;</script>
   
   
-  <script src="/js/load-theme.js"></script>
+  
+  
+  <script src="/js/wowchemy-init.min.0475bc389b7599ef6b1889ad17c11742.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -329,16 +337,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -350,6 +364,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -367,7 +382,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+  <div class="container-xl">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -583,6 +598,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -655,10 +676,6 @@
 
 
 
-  
-
-
-
 
 
   
@@ -667,27 +684,55 @@
 <div class="card-simple">
 
   
-  <div class="article-metadata">
     
-    <span>
-      Nov, 2017
-    </span>
-    
-  </div>
+
+
+<div class="article-metadata">
+
+  
   
 
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov, 2017
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
   
   
   
   
   <a href="/talk/treadpatterns/">
-    <div class="img-hover-zoom"><img src="/talk/treadpatterns/featured_hue1ce1cda310e3b3b59f70ce9e086ad82_80256_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="On Tread Patterns: Parameterisation and Inverse Design"></div>
+    <div class="img-hover-zoom"><img src="/talk/treadpatterns/featured_hue1ce1cda310e3b3b59f70ce9e086ad82_80256_ba0b6f2cf4fad1c972e817dfef001262.png" data-src="/talk/treadpatterns/featured_hue1ce1cda310e3b3b59f70ce9e086ad82_80256_808x455_fill_lanczos_smart1_2.png" class="article-banner lazyload" alt="On Tread Patterns: Parameterisation and Inverse Design"></div>
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/talk/treadpatterns/">On Tread Patterns: Parameterisation and Inverse Design</a>
-  </h3>
+  </div>
 
   
   <a href="/talk/treadpatterns/" class="summary-link">
@@ -714,7 +759,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/media/treadpatterns.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/media/treadpatterns.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -748,10 +793,6 @@
 
 
 
-  
-
-
-
 
 
   
@@ -760,27 +801,55 @@
 <div class="card-simple">
 
   
-  <div class="article-metadata">
     
-    <span>
-      Apr, 2017
-    </span>
-    
-  </div>
+
+
+<div class="article-metadata">
+
+  
   
 
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr, 2017
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
   
   
   
   
   <a href="/talk/saefoil/">
-    <div class="img-hover-zoom"><img src="/talk/saefoil/featured_huea48c65edc4099741d8f712764ab290e_71658_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="SAE Short Course on Aero Design"></div>
+    <div class="img-hover-zoom"><img src="/talk/saefoil/featured_huea48c65edc4099741d8f712764ab290e_71658_ee269284f6598e64361e62344079d3b7.png" data-src="/talk/saefoil/featured_huea48c65edc4099741d8f712764ab290e_71658_808x455_fill_lanczos_smart1_2.png" class="article-banner lazyload" alt="SAE Short Course on Aero Design"></div>
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/talk/saefoil/">SAE Short Course on Aero Design</a>
-  </h3>
+  </div>
 
   
   <a href="/talk/saefoil/" class="summary-link">
@@ -831,7 +900,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://john-seb.github.io/media/foil1.pdf" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://john-seb.github.io/media/foil1.pdf" target="_blank" rel="noopener">
     <i class="fas fa-bug mr-1"></i>
     FOIL
   </a>
@@ -847,7 +916,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://john-seb.github.io/media/foil2.pdf" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://john-seb.github.io/media/foil2.pdf" target="_blank" rel="noopener">
     <i class="fas fa-bug mr-1"></i>
     Wind Tunnel
   </a>
@@ -878,10 +947,6 @@
 
 
 
-  
-
-
-
 
 
   
@@ -890,27 +955,55 @@
 <div class="card-simple">
 
   
-  <div class="article-metadata">
     
-    <span>
-      Apr, 2016
-    </span>
-    
-  </div>
+
+
+<div class="article-metadata">
+
+  
   
 
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr, 2016
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
   
   
   
   
   <a href="/talk/microf1/">
-    <div class="img-hover-zoom"><img src="/talk/microf1/featured_hu3c6f96f766688b7e592a83cc63b538ec_559185_918x517_fill_q90_lanczos_smart1.jpeg" class="article-banner" alt="Microfluidics for the World"></div>
+    <div class="img-hover-zoom"><img src="/talk/microf1/featured_hu3c6f96f766688b7e592a83cc63b538ec_559185_93c62afd33210661f7c894e2d7d311bb.jpeg" data-src="/talk/microf1/featured_hu3c6f96f766688b7e592a83cc63b538ec_559185_808x455_fill_q75_lanczos_smart1.jpeg" class="article-banner lazyload" alt="Microfluidics for the World"></div>
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/talk/microf1/">Microfluidics for the World</a>
-  </h3>
+  </div>
 
   
   <a href="/talk/microf1/" class="summary-link">
@@ -935,7 +1028,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/microf1/microf1.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/talk/microf1/microf1.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -969,10 +1062,6 @@
 
 
 
-  
-
-
-
 
 
   
@@ -981,30 +1070,55 @@
 <div class="card-simple">
 
   
-  <div class="article-metadata">
     
-    <span>
-      Apr, 2016
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>College of Engineering Trivandrum</span>
-    
-  </div>
+
+
+<div class="article-metadata">
+
+  
   
 
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr, 2016
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
   
   
   
   
   <a href="/talk/microt/">
-    <div class="img-hover-zoom"><img src="/talk/microt/featured_hu0a79445b0a93014229a437bf29a426a4_83710_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" alt="Film-Evaporation Microthruster for Cubesats"></div>
+    <div class="img-hover-zoom"><img src="/talk/microt/featured_hu0a79445b0a93014229a437bf29a426a4_83710_db0e11e542ffe3518b51e078b1021f19.jpg" data-src="/talk/microt/featured_hu0a79445b0a93014229a437bf29a426a4_83710_808x455_fill_q75_lanczos_smart1.jpg" class="article-banner lazyload" alt="Film-Evaporation Microthruster for Cubesats"></div>
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/talk/microt/">Film-Evaporation Microthruster for Cubesats</a>
-  </h3>
+  </div>
 
   
   <a href="/talk/microt/" class="summary-link">
@@ -1031,7 +1145,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/media/microt1.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/media/microt1.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1093,7 +1207,7 @@
     
     
     Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder that empowers creators.
     
@@ -1147,7 +1261,7 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.0/mermaid.min.js" integrity="sha512-ja+hSBi4JDtjSqc4LTBsSwuBT3tdZ3oKYKd07lTVYmCnTCor56AnRql00ssqnTOR9Ss4gOP/ROGB3SfcJnZkeg==" crossorigin="anonymous" title="mermaid"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.4/mermaid.min.js" integrity="sha512-as1BF4+iHZ3BVO6LLDQ7zrbvTXM+c/1iZ1qII/c3c4L8Rn5tHLpFUtpaEtBNS92f+xGsCzsD7b62XP3XYap6oA==" crossorigin="anonymous" title="mermaid"></script>
       
 
       
@@ -1165,42 +1279,18 @@
 
     
     
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks",
-        'slides' : "Slides"
-        };
-    </script>
-    
-
-    
-    
 
     
     
     <script id="search-hit-fuse-template" type="text/x-template">
       <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
         </div>
-      </div>
       </div>
     </script>
     
@@ -1213,17 +1303,30 @@
 
     
     
-
-    
-    
     
 
     
     
+    
 
     
     
 
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
     
     
     
@@ -1234,11 +1337,10 @@
     
     
       
+      
     
     
-    
-    
-    <script src="/js/wowchemy.min.d9d80f811e95b4b4f6df1eaaf297b05f.js"></script>
+    <script src="/en/js/wowchemy.min.06e52bf0665167274d459a9300d0fab2.js"></script>
 
     
 
