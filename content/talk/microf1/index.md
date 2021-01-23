@@ -72,8 +72,8 @@ math: true
 
 
 ---
-<object data="https://john-seb.github.io/media/microf1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://john-seb.github.io/media/microf1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/media/microf1.pdf">Download PDF</a>.</p>
+<object data="https://john-seb.github.io/talk/microf1/microf1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://john-seb.github.io/talk/microf1/microf1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/talk/microf1/microf1.pdf">Download PDF</a>.</p>
     </embed>
 </object>
