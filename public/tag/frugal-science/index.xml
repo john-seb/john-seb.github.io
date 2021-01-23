@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>frugal science | John Sebastian</title>
+    <link>https://john-seb.github.io/tag/frugal-science/</link>
+      <atom:link href="https://john-seb.github.io/tag/frugal-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>frugal science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://john-seb.github.io/media/prof.jpeg</url>
+      <title>frugal science</title>
+      <link>https://john-seb.github.io/tag/frugal-science/</link>
+    </image>
+    
+    <item>
+      <title>Detection of Microplastics in Inland Waters using Impedance Spectroscopy</title>
+      <link>https://john-seb.github.io/project/microp/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/project/microp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid and Low- Cost Fabrication of Microfluidic Panels</title>
+      <link>https://john-seb.github.io/project/microf/</link>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/project/microf/</guid>
+      <description>&lt;p&gt;Development of a frugal alternative to the expensive lithographic methods that are the state-of-the-art in the fabrication of microfluidic panels.
+This approach makes use of a direct cutting scheme in which the device is divided into several 2D panels. Microfluidic channels are narrow as 150 micrometers could be made on these layers with the required precision using a craft cutter with a modified tip.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
