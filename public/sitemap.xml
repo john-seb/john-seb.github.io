@@ -53,21 +53,6 @@
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/articles/mentors/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/articles/insect1/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/articles/smallbus/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://john-seb.github.io/tag/article/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
   </url>
@@ -118,41 +103,6 @@
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/post/berliner-breakfast/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/category/blog/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/memories/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/post/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/category/storygrapher/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/storytelling/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/travel/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://john-seb.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -160,16 +110,6 @@
   <url>
     <loc>https://john-seb.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/post/blue-genies/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/childhood/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -219,6 +159,10 @@
   
   <url>
     <loc>https://john-seb.github.io/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/post/</loc>
   </url>
   
   <url>
