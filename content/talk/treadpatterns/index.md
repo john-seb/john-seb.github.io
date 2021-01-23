@@ -34,7 +34,7 @@ featured: false
 links:
 
 url_code: ""
-url_pdf: "https://john-seb.github.io/treadpatterns/treadpatterns.pdf"
+url_pdf: "https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf"
 url_slides: ""
 url_video: ""
 
@@ -72,8 +72,8 @@ math: true
 
 
 ---
-<object data="https://john-seb.github.io/treadpatterns/treadpatterns.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://john-seb.github.io/treadpatterns/treadpatterns.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/treadpatterns/treadpatterns.pdf">Download PDF</a>.</p>
+<object data="https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf">Download PDF</a>.</p>
     </embed>
 </object>
