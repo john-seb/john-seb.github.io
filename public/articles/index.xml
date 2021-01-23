@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles | John Sebastian</title>
+    <link>https://john-seb.github.io/articles/</link>
+      <atom:link href="https://john-seb.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Articles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://john-seb.github.io/media/prof.jpeg</url>
+      <title>Articles</title>
+      <link>https://john-seb.github.io/articles/</link>
+    </image>
+    
+    <item>
+      <title>Personal RMarkdown Resources</title>
+      <link>https://john-seb.github.io/articles/rmdref/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/rmdref/</guid>
+      <description>&lt;div class=text-justify&gt; 
+&lt;p&gt;To paraphrase Prof Alex Slocum&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, if you are a serious researcher in this century, you should have a website; and if you don’t, don’t expect to talk.&lt;br&gt;
+I believe that he&amp;rsquo;s absolutely right!&lt;/p&gt;
+&lt;p&gt;I use markdown extensively to write everything from emails to technical documents and manuscripts.&lt;/p&gt;
+&lt;p&gt;These are &lt;em&gt;shortcuts/ tricks/ resources&lt;/em&gt; that I’ve looked up over time. Just posting it here for future reference- yours and mine.&lt;/p&gt;
+&lt;/div&gt;   
+&lt;hr&gt;
+&lt;div class=&#34;toc&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-to-change-fonts-inline-in-markdown&#34;&gt;1 To change fonts inline in Markdown&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#11-useful-list-of-fonts&#34;&gt;1.1 Useful list of Fonts&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-toc---table-of-contents&#34;&gt;2 Toc - Table of Contents&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#21-indentation&#34;&gt;2.1 Indentation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#22-toc-anywhere-on-the-page&#34;&gt;2.2 TOC anywhere on the page&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-text-alignment&#34;&gt;3 Text alignment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-text-formatting-and-styles&#34;&gt;4 Text formatting and Styles&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#41-themes&#34;&gt;4.1 Themes&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-internal-links&#34;&gt;5 Internal Links&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#6-footnotes&#34;&gt;6 Footnotes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#7-converting-to-gfm&#34;&gt;7 Converting to GFM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#8-reference&#34;&gt;8 Reference&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#heading&#34;&gt;=======&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-to-change-fonts-inline-in-markdown-1&#34;&gt;1 To change fonts inline in Markdown&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#11-useful-list-of-fonts-1&#34;&gt;1.1 Useful list of Fonts&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-toc---table-of-contents-1&#34;&gt;2 Toc - Table of Contents&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#21-indentation-1&#34;&gt;2.1 Indentation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#22-toc-anywhere-on-the-page-1&#34;&gt;2.2 TOC anywhere on the page&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-text-alignment-1&#34;&gt;3 Text alignment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-text-formatting-and-styles-1&#34;&gt;4 Text formatting and Styles&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#41-themes-1&#34;&gt;4.1 Themes&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-internal-links-1&#34;&gt;5 Internal Links&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#6-footnotes-1&#34;&gt;6 Footnotes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#7-converting-to-gfm-1&#34;&gt;7 Converting to GFM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#8-reference-1&#34;&gt;8 Reference&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-to-change-fonts-inline-in-markdown&#34;&gt;1 To change fonts inline in Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;p class=text-center style=&amp;quot;font-family: Georgia, serif; font-size:11pt; font-weight:bold&amp;quot;&amp;gt;
+ This is how you do it!
+&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Check the &lt;a href=&#34;./ref.html&#34;&gt;full HTML output&lt;/a&gt; to see how it works. Themes can override the intended output.&lt;/p&gt;
+&lt;p&gt;General styling tweaks are discussed in Section: &lt;a href=&#34;#4-text-formatting-and-styles&#34;&gt;Text formatting and
+Styles&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;11-useful-list-of-fonts&#34;&gt;1.1 Useful list of Fonts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arial (sans-serif)&lt;/li&gt;
+&lt;li&gt;Verdana (sans-serif)&lt;/li&gt;
+&lt;li&gt;Helvetica (sans-serif)&lt;/li&gt;
+&lt;li&gt;Tahoma (sans-serif)&lt;/li&gt;
+&lt;li&gt;Trebuchet MS (sans-serif)&lt;/li&gt;
+&lt;li&gt;Times New Roman (serif)&lt;/li&gt;
+&lt;li&gt;Georgia (serif)&lt;/li&gt;
+&lt;li&gt;Garamond (serif)&lt;/li&gt;
+&lt;li&gt;Courier New (monospace)&lt;/li&gt;
+&lt;li&gt;Brush Script MT (cursive)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can see, this is not the most elegant solution for inline changes
+in text formatting. If it were so, I would have converted each of the
+above list entries to the fonts they represent.&lt;/p&gt;
+&lt;h2 id=&#34;2-toc---table-of-contents&#34;&gt;2 Toc - Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the toggle word for &lt;code&gt;toc&lt;/code&gt; is &lt;code&gt;yes&lt;/code&gt; and not &lt;code&gt;true&lt;/code&gt; in RMarkdown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;21-indentation&#34;&gt;2.1 Indentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;the following script will take care of indentation in the toc list:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;script&amp;gt;
+$(document).ready(function() {
+  $items = $(&#39;div#TOC li&#39;);
+  $items.each(function(idx) {
+    num_ul = $(this).parentsUntil(&#39;#TOC&#39;).length;
+    $(this).css({&#39;text-indent&#39;: num_ul * 10, &#39;padding-left&#39;: 0});
+  });
+
+});
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;code&gt;number_sections: true&lt;/code&gt; in the header for numbering. Levels are
+intuitively expressed using &lt;em&gt;decimal dots&lt;/em&gt; and are equivalent to the
+number of &lt;code&gt;#&lt;/code&gt; signs prefixing the heading. But to display more
+levels than the default 3 (H3) levels, use &lt;code&gt;toc_depth: 5&lt;/code&gt; in the
+header.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;22-toc-anywhere-on-the-page&#34;&gt;2.2 TOC anywhere on the page&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This can be done (as I have chosen to do for this article) by making use of &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes&lt;/a&gt;.
+Checkout the details and implementation in &lt;a href=&#34;#8-Reference&#34;&gt;Ref. 4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-text-alignment&#34;&gt;3 Text alignment&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;While its possible to use css to do this, I often use the following
+html snip for flexibility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=text-justify&amp;gt;
+body
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;4-text-formatting-and-styles&#34;&gt;4 Text formatting and Styles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the following snippet of code can be placed in the markdown body as
+a work around to text styling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+
+body{ /* Normal  */
+      font-size: 12px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+  color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  font-family: &amp;quot;Times New Roman&amp;quot;, Times, serif;
+  color: DarkBlue;
+}
+
+&amp;lt;/style&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;41-themes&#34;&gt;4.1 Themes&lt;/h3&gt;
+&lt;p&gt;The list of themes available to call from the header via &lt;code&gt;theme&lt;/code&gt; is
+available at &lt;a href=&#34;https://bootswatch.com/3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bootswatch&lt;/a&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;5-internal-links&#34;&gt;5 Internal Links&lt;/h2&gt;
+&lt;p&gt;I have used an implicit link in section &lt;a href=&#34;#1-to-change-fonts-inline-in-markdown&#34;&gt;To change fonts inline in
+Markdown&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The syntax is to use the correct heading you want to link to within
+square brackets:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;I have used an implicit link in section [To change fonts inline in Markdown].
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;6-footnotes&#34;&gt;6 Footnotes&lt;/h2&gt;
+&lt;p&gt;The syntax is as follows. Scroll down to see how they appear.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Footnote 1 link[^first].
+
+Footnote 2 link[^second].
+
+Inline footnote^[Text of inline footnote] definition.
+
+Duplicated footnote reference[^second].
+
+[^first]: Footnote **can have markup**
+
+    and multiple paragraphs.
+
+[^second]: Footnote text.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;7-converting-to-gfm&#34;&gt;7 Converting to GFM&lt;/h2&gt;
+&lt;p&gt;The front matter specifics:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;output:
+  md_document:
+    variant: gfm
+    toc: yes
+    toc_depth: 5
+    number_sections: true
+    preserve_yaml: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;8-reference&#34;&gt;8 Reference&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://markdown-it.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;markdown-it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown: The Definitive
+Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/lecture/reproducible-templates-analysis/customizing-an-html-document-3Bfz3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reproducible Templates for Analysis and Dissemination Course by
+Emory University&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ruddra.com/hugo-add-toc-anywhere/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Table of Contents Shortcode&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;heading&#34;&gt;=======&lt;/h2&gt;
+&lt;p&gt;title: Personal RMarkdown Resources
+author: John Sebastian
+output:
+md_document:
+variant: markdown_strict+backtick_code_blocks+autolink_bare_uris
+preserve_yaml: true
+toc: yes
+toc_depth: 5
+number_sections: true&lt;/p&gt;
+&lt;p&gt;date: &amp;ldquo;2021-01-10&amp;rdquo;
+summary: Some of the handy Markdown tricks I&amp;rsquo;ve come across and found useful, and collected for reference&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class=text-justify&gt; 
+&lt;p&gt;To paraphrase Prof Alex Slocum&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, if you are a serious researcher in this century, you should have a website; and if you don’t, don’t expect to talk.&lt;br&gt;
+I believe that he&amp;rsquo;s absolutely right!&lt;/p&gt;
+&lt;p&gt;I use markdown extensively to write everything from emails to technical documents and manuscripts.&lt;/p&gt;
+&lt;p&gt;These are &lt;em&gt;shortcuts/ tricks/ resources&lt;/em&gt; that I’ve looked up over time. Just posting it here for future reference- yours and mine.&lt;/p&gt;
+&lt;/div&gt;   
+&lt;hr&gt;
+&lt;div class=&#34;toc&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-to-change-fonts-inline-in-markdown&#34;&gt;1 To change fonts inline in Markdown&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#11-useful-list-of-fonts&#34;&gt;1.1 Useful list of Fonts&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-toc---table-of-contents&#34;&gt;2 Toc - Table of Contents&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#21-indentation&#34;&gt;2.1 Indentation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#22-toc-anywhere-on-the-page&#34;&gt;2.2 TOC anywhere on the page&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-text-alignment&#34;&gt;3 Text alignment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-text-formatting-and-styles&#34;&gt;4 Text formatting and Styles&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#41-themes&#34;&gt;4.1 Themes&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-internal-links&#34;&gt;5 Internal Links&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#6-footnotes&#34;&gt;6 Footnotes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#7-converting-to-gfm&#34;&gt;7 Converting to GFM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#8-reference&#34;&gt;8 Reference&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#heading&#34;&gt;=======&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-to-change-fonts-inline-in-markdown-1&#34;&gt;1 To change fonts inline in Markdown&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#11-useful-list-of-fonts-1&#34;&gt;1.1 Useful list of Fonts&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-toc---table-of-contents-1&#34;&gt;2 Toc - Table of Contents&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#21-indentation-1&#34;&gt;2.1 Indentation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#22-toc-anywhere-on-the-page-1&#34;&gt;2.2 TOC anywhere on the page&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-text-alignment-1&#34;&gt;3 Text alignment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-text-formatting-and-styles-1&#34;&gt;4 Text formatting and Styles&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#41-themes-1&#34;&gt;4.1 Themes&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-internal-links-1&#34;&gt;5 Internal Links&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#6-footnotes-1&#34;&gt;6 Footnotes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#7-converting-to-gfm-1&#34;&gt;7 Converting to GFM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#8-reference-1&#34;&gt;8 Reference&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-to-change-fonts-inline-in-markdown-1&#34;&gt;1 To change fonts inline in Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;p class=text-center style=&amp;quot;font-family: Georgia, serif; font-size:11pt; font-weight:bold&amp;quot;&amp;gt;
+ This is how you do it!
+&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Check the &lt;a href=&#34;./ref.html&#34;&gt;full HTML output&lt;/a&gt; to see how it works. Themes can override the intended output.&lt;/p&gt;
+&lt;p&gt;General styling tweaks are discussed in Section: &lt;a href=&#34;#4-text-formatting-and-styles&#34;&gt;Text formatting and
+Styles&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;11-useful-list-of-fonts-1&#34;&gt;1.1 Useful list of Fonts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arial (sans-serif)&lt;/li&gt;
+&lt;li&gt;Verdana (sans-serif)&lt;/li&gt;
+&lt;li&gt;Helvetica (sans-serif)&lt;/li&gt;
+&lt;li&gt;Tahoma (sans-serif)&lt;/li&gt;
+&lt;li&gt;Trebuchet MS (sans-serif)&lt;/li&gt;
+&lt;li&gt;Times New Roman (serif)&lt;/li&gt;
+&lt;li&gt;Georgia (serif)&lt;/li&gt;
+&lt;li&gt;Garamond (serif)&lt;/li&gt;
+&lt;li&gt;Courier New (monospace)&lt;/li&gt;
+&lt;li&gt;Brush Script MT (cursive)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can see, this is not the most elegant solution for inline changes
+in text formatting. If it were so, I would have converted each of the
+above list entries to the fonts they represent.&lt;/p&gt;
+&lt;h2 id=&#34;2-toc---table-of-contents-1&#34;&gt;2 Toc - Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the toggle word for &lt;code&gt;toc&lt;/code&gt; is &lt;code&gt;yes&lt;/code&gt; and not &lt;code&gt;true&lt;/code&gt; in RMarkdown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;21-indentation-1&#34;&gt;2.1 Indentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;the following script will take care of indentation in the toc list:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;script&amp;gt;
+$(document).ready(function() {
+  $items = $(&#39;div#TOC li&#39;);
+  $items.each(function(idx) {
+    num_ul = $(this).parentsUntil(&#39;#TOC&#39;).length;
+    $(this).css({&#39;text-indent&#39;: num_ul * 10, &#39;padding-left&#39;: 0});
+  });
+
+});
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;code&gt;number_sections: true&lt;/code&gt; in the header for numbering. Levels are
+intuitively expressed using &lt;em&gt;decimal dots&lt;/em&gt; and are equivalent to the
+number of &lt;code&gt;#&lt;/code&gt; signs prefixing the heading. But to display more
+levels than the default 3 (H3) levels, use &lt;code&gt;toc_depth: 5&lt;/code&gt; in the
+header.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;22-toc-anywhere-on-the-page-1&#34;&gt;2.2 TOC anywhere on the page&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This can be done (as I have chosen to do for this article) by making use of &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes&lt;/a&gt;.
+Checkout the details and implementation in &lt;a href=&#34;#8-Reference&#34;&gt;Ref. 4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-text-alignment-1&#34;&gt;3 Text alignment&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;While its possible to use css to do this, I often use the following
+html snip for flexibility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=text-justify&amp;gt;
+body
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;4-text-formatting-and-styles-1&#34;&gt;4 Text formatting and Styles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the following snippet of code can be placed in the markdown body as
+a work around to text styling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+
+body{ /* Normal  */
+      font-size: 12px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+  color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  font-family: &amp;quot;Times New Roman&amp;quot;, Times, serif;
+  color: DarkBlue;
+}
+
+&amp;lt;/style&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;41-themes-1&#34;&gt;4.1 Themes&lt;/h3&gt;
+&lt;p&gt;The list of themes available to call from the header via &lt;code&gt;theme&lt;/code&gt; is
+available at &lt;a href=&#34;https://bootswatch.com/3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bootswatch&lt;/a&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;5-internal-links-1&#34;&gt;5 Internal Links&lt;/h2&gt;
+&lt;p&gt;I have used an implicit link in section &lt;a href=&#34;#1-to-change-fonts-inline-in-markdown&#34;&gt;To change fonts inline in
+Markdown&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The syntax is to use the correct heading you want to link to within
+square brackets:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;I have used an implicit link in section [To change fonts inline in Markdown].
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;6-footnotes-1&#34;&gt;6 Footnotes&lt;/h2&gt;
+&lt;p&gt;The syntax is as follows. Scroll down to see how they appear.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Footnote 1 link[^first].
+
+Footnote 2 link[^second].
+
+Inline footnote^[Text of inline footnote] definition.
+
+Duplicated footnote reference[^second].
+
+[^first]: Footnote **can have markup**
+
+    and multiple paragraphs.
+
+[^second]: Footnote text.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;7-converting-to-gfm-1&#34;&gt;7 Converting to GFM&lt;/h2&gt;
+&lt;p&gt;The front matter specifics:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;output:
+  md_document:
+    variant: gfm
+    toc: yes
+    toc_depth: 5
+    number_sections: true
+    preserve_yaml: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;8-reference-1&#34;&gt;8 Reference&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://markdown-it.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;markdown-it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown: The Definitive
+Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/lecture/reproducible-templates-analysis/customizing-an-html-document-3Bfz3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reproducible Templates for Analysis and Dissemination Course by
+Emory University&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ruddra.com/hugo-add-toc-anywhere/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Table of Contents Shortcode&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NkbY2RHviPU&amp;amp;ab_channel=TeawithTeachers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tea with Alexander Slocum: an
+interview&lt;/a&gt;\ &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://pergatory.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Slocum’s website&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/html-document.html#appearance-and-style&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rmarkdown
+Catalogue&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tyres: The Science of Black Magic</title>
+      <link>https://john-seb.github.io/articles/saetyre/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/saetyre/</guid>
+      <description>&lt;div class=text-justify&gt; 
+&lt;p&gt;&lt;img src=&#34;./page1.jpg&#34; alt=&#34;Page 1&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;./page2.jpg&#34; alt=&#34;Page 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Read the web version instead: &lt;a href=&#34;./fulldoc.html&#34;&gt;Tyres: The Science of Black Magic&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
