@@ -2,11 +2,11 @@
 name = "Alegreya"
 
 # Optional Google font URL
-google_fonts = "Philosopher:400,700|Merriweather|Montserrat+Alternates|Acme"
+google_fonts = "Georgia|Merriweather|Montserrat+Alternates"
 
 # Font families
 
-heading_font = "Philosopher"
+heading_font = "Georgia"
 body_font = "Merriweather"
 nav_font = "Montserrat Alternates"
 mono_font = "Merriweather"
