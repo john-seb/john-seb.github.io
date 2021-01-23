@@ -2,8 +2,8 @@
   "name": "John Sebastian",
   "short_name": "John Sebastian",
   "lang": "en-us",
-  "theme_color": "#c9d4f5",
-  "background_color": "#c9d4f5",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
   "icons": [{
     "src": "/images/icon_huc1db109fd7e63e30d5d3e3dd5b193ded_1408279_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
