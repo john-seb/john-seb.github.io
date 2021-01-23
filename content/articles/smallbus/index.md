@@ -1,9 +1,8 @@
 ---
 title: 'Rebuilding Schedules from Independent Observations: Rural Bus Timings'
+draft: true
 author:
-- name: John Sebastian
-#- affiliation: Virginia Tech
-#  name: John J Socha
+- admin
 
 #event_url: https://example.org
 

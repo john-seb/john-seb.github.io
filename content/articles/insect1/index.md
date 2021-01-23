@@ -1,5 +1,6 @@
 ---
 title: 'Notes: Circulation in Insect Wings- Mary Salcedo'
+draft: true
 author:
 - affiliation: Virginia Tech
   #email: msalcedo@vt.edu
@@ -15,6 +16,8 @@ event_url: https://doi.org/10.1093/icb/icaa124
 date: "2020-10-31"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
+
+
 
 authors: []
 tags: []
