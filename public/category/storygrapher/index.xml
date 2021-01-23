@@ -5,113 +5,12 @@
     <link>https://john-seb.github.io/category/storygrapher/</link>
       <atom:link href="https://john-seb.github.io/category/storygrapher/index.xml" rel="self" type="application/rss+xml" />
     <description>storygrapher</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://john-seb.github.io/media/prof.jpeg</url>
       <title>storygrapher</title>
       <link>https://john-seb.github.io/category/storygrapher/</link>
     </image>
-    
-    <item>
-      <title>Take Fotos, Leave Footprints</title>
-      <link>https://john-seb.github.io/gallery/travel/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/gallery/travel/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./1.jpg&#34; alt=&#34;John Sebastian&#34;&gt; &lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./2.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./3.JPG&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./4.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./6.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./5.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./27.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./10.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./12.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./14.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./15.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./16.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./18.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./19.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./20.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./23.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./24.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./26.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./33.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./28.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./29.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./13.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./35.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./31.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./7.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./8.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./11.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./9.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./17.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./21.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./22.jpeg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./25.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./30.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
- &lt;div class=text-justify&gt; 
-&lt;/div&gt;</description>
-    </item>
     
     <item>
       <title>Berliner Breakfast</title>
