@@ -114,6 +114,7 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "", link = "https://twitter.com/johnmcseb"},
   {icon = "linkedin", icon_pack = "fab", name = "", link = "https://linkedin.com/in/john-sebastian"},
+  {icon = "medium", icon_pack = "fab", name = "", link = "https://john-sebastian.medium.com/"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},

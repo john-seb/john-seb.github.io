@@ -49,6 +49,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/john-sebastian
+- icon: medium
+  icon_pack: fab
+  link: https://john-sebastian.medium.com/
+  
 #- icon: google-scholar
  # icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
