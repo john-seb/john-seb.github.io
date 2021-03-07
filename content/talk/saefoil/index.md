@@ -84,6 +84,10 @@ math: true
 
 ## Forenoon: Foil Geometry and Wing Design Fundamentals
 
+This is a comprehensive introduction to the underlying mathematics and design process of choosing the best fit airfoil section for a particular application. The math is developed and applied.
+An overview of the NACA families and their applications is given. The process of choosing the right foil from the existing databases is charted out.
+The session ends with a practical exercise. This is followed by a CAD and CFD workshop to analyse the foil.
+
 <object data="https://john-seb.github.io/talk/saefoil/foil1.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://john-seb.github.io/talk/saefoil/foil1.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/talk/saefoil/foil1.pdf">Download PDF</a>.</p>
@@ -96,6 +100,9 @@ math: true
 
 
 ## Afternoon: Testing Winds- History, Theory and Practice of Wind Tunnel Testing
+
+The afternoon session is a *wind tunnel workshop*. A NACA 0012 foil is tested in the lab and the pressure distribution is compared with the CFD results from the forenoon session.
+Furthermore, a comprehensive timeline of the development of various experimental methods is introduced.
 <object data="https://john-seb.github.io/talk/saefoil/foil2.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://john-seb.github.io/talk/saefoil/foil2.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/talk/saefoil/foil2.pdf">Download PDF</a>.</p>

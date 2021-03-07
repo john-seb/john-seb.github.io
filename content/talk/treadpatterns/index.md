@@ -72,6 +72,7 @@ math: true
 
 
 ---
+A novel method for the inverse design of tyre tread patterns is presented. This method which makes use of structural and geometric analysis is particularly useful in the designing of passenger car and bus/truck radial tyres.
 <object data="https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf">Download PDF</a>.</p>
