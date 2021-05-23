@@ -18,10 +18,8 @@ About Me: Mechanics; Applied Mathematics; Engineering for Biology
 
 interests:
 - Applied Mechanics
-- Biophysics
-- Composite Materials
-- Micro, Nano. Bio Fluidics
-- Bio Inspired Design
+- Nano, Micro, Bio Fluidics
+- Electokinetics
 
 # education:
  # courses:
@@ -78,6 +76,6 @@ highlight_name: false
 #- Visitors
 ---
 
-Hello! I am a scientist and engineer pursuing interdisciplinary research in biophysics, soft matter, composite materials, and complex systems. A common thread in my research is looking for the relation between geometry (at smaller and smaller scales) and the associated physics- especially of air/ hydrofoils, flexible structures, architectured materials and (micro)fluidic systems. I aim to develop technologies and tools to aid the study of the natural world around us, for the engineering of biology and to build solutions to unmet societal needs.
+Hello! I am a scientist and engineer pursuing interdisciplinary research in fluid mechanics, electrokinetics and nano-scale systems, with a strong theoretical and applied math focus. My research over the past several years has been on the investigation of geometry (at smaller and smaller scales) and the associated physics- especially of air/ hydrofoils, flexible structures, architectured materials and (micro)fluidic systems. I am currently a graduate student in the Green Lab ([the Fluid Mech Lab](https://fluidmechlab.com/)) and I aim to partake in the discovery and development of new physics in nano-scale systems, to aid the study of the natural world around us and to build solutions to unmet societal needs.
 
 *(Building this site a few kilobytes at a time! On the journey to completeness)*
