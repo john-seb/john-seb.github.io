@@ -44,9 +44,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/johnmcseb
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/john-sebastian
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://linkedin.com/in/john-sebastian
 - icon: medium
   icon_pack: fab
   link: https://john-sebastian.medium.com/
@@ -59,9 +59,9 @@ social:
   #link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
