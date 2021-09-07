@@ -14,7 +14,7 @@ output:
 date: "2021-08-30"
 summary: Steven Weinberg's Advice to Students at the start of their Scientific Careers 
 ---
-``I think we don't take our theories seriously enough, because it's so hard to believe that the squiggles that you make on a piece of paper are actually the way nature works."
+"I think we don't take our theories seriously enough, because it's so hard to believe that the squiggles that you make on a piece of paper are actually the way nature works."
 ![Steven Weinberg 1933-2021](./weinberg.png)
 
 4 Lessons:
