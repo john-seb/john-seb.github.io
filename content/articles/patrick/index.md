@@ -59,7 +59,7 @@ Quality of communication  depends on
 #### 4 Samples of Heuristics
   - **Cycle** around about the course of the talk 
     - 20% of the listeners may be fogged out at a given time. So repeating it in a cycle, 3 times can convey it to most of the audience
-  - Build a **Fence* around your idea, so that people don't assume it to be something else
+  - Build a ***Fence*** *around your idea, so that people don't assume it to be something else*
   - **Verbal Punctuation**- to bring people back into the bus
     - To bring prople who fogged out back into the loop, give an overview now an then (a status update of sorts)
   - **Ask a Question**
@@ -136,7 +136,7 @@ Quality of communication  depends on
 - "Your ideas are like your children, you don't want them to go into the world in rags"
 - Let them get recognised fot their value
 - to get remembered, 
-  - make sure you have a **SYMBOl** associated with your presentation
+  - make sure you have a **SYMBOL** associated with your presentation
   - a **SLOGAN**
   - a **SURPRISE**
   - a **SALIENT IDEA**
