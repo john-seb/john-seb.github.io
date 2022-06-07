@@ -1,6 +1,6 @@
 ---
 title: Electrical Circuit Modelling of Nanofluidic Systems
-summary: Supervised by Dr Yoav Green
+summary: J Sebastian and Y Green
 tags:
 - Nanofluidics
 date: "2022-05-25T00:00:00Z"
@@ -17,10 +17,6 @@ links:
   icon_pack: fab
   name: Arxiv
   url: https://arxiv.org/abs/2205.09437
-- icon: site
-  icon_pack: fab
-  name: lab site
-  url: https://fluidmechlab.com/
 url_code: ""
 url_pdf: ""
 url_slides: ""

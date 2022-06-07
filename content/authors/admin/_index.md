@@ -41,18 +41,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:4johnsebastian@gmail.com"  # For a direct email link, use "mailto:4johnsebastian@gmail.com".
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/John-Sebastian-11
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/johnmcseb
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://linkedin.com/in/john-sebastian
-- icon: medium
-  icon_pack: fab
-  link: https://john-sebastian.medium.com/
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/John-Sebastian-11
+#- icon: medium
+#  icon_pack: fab
+#  link: https://john-sebastian.medium.com/
 #- icon: google-scholar
  # icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
