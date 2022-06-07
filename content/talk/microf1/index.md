@@ -1,14 +1,14 @@
 ---
 title: Microfluidics for the World
 event: IET PATW 2016
-#event_url: https://example.org
+# event_url: 
 
 #location: Source Themes HQ
 
 #address:
   #street: 450 Serra Mall
 
-summary: A talk presenting the current works and potential of microfludics as an enabling technology
+summary: A [talk](https://www.theiet.org/impact-society/awards-scholarships/iet-present-around-the-world-competition/) presenting the current works and potential of microfludics as an enabling technology
 abstract: ""
 
 

@@ -8,7 +8,7 @@ event: History and Philosophy of Science Meeting
 #address:
   #street: 450 Serra Mall
 
-summary: Discussion on Ernst Mach's Analysis of Sensations, Chapter 4 at the History and Philosophy of Science Meeting, 15 December 2021, Ben-Gurion University of the Negev, Israel.
+summary: Discussion on Ernst Mach's Analysis of Sensations, Chapter 4 at the [**History and Philosophy of Science Meeting**](https://in.bgu.ac.il/en/loeb/Pages/default.aspx), 15 December 2021.
 abstract: "Ernst Mach, physicist and philosopher, addresses the fundamental problem of the truth of observations in his 1900 treatise L'Analyse des Sensations. Here we discuss his views on how a physical truth shall be identified from human observations and the influence of his ideas on modern science and philosophy."
 
 
@@ -76,3 +76,10 @@ math: true
 
 
 ---
+Ernst Mach, physicist and philosopher, addresses the fundamental problem of the truth of observations in his 1900 treatise L'Analyse des Sensations. Here we discuss his views on how a physical truth shall be identified from human observations and the influence of his ideas on modern science and philosophy.
+
+<object data="https://john-seb.github.io/talk/mach/john_mach_online.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://john-seb.github.io/talk/mach/john_mach_online.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://john-seb.github.io/talk/mach/john_mach_online.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
