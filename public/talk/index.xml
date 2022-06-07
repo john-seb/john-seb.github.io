@@ -5,12 +5,20 @@
     <link>https://john-seb.github.io/talk/</link>
       <atom:link href="https://john-seb.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://john-seb.github.io/media/prof.jpeg</url>
       <title>Talks</title>
       <link>https://john-seb.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Ernst Mach- Analysis of Sensations</title>
+      <link>https://john-seb.github.io/talk/mach/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/talk/mach/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Tread Patterns: Parameterisation and Inverse Design</title>

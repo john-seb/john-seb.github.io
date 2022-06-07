@@ -14,12 +14,12 @@ abstract: "Ernst Mach, physicist and philosopher, addresses the fundamental prob
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-04-02"
+date: "2021-12-15"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01"
+# publishDate: "2017-01-01"
 
 authors: []
 tags: []
@@ -32,9 +32,9 @@ featured: false
   #focal_point: Right
 
 links:
-- icon: bug 
+- icon: book 
   icon_pack: fas
-  name: Is it what it is?
+  name: Talk Deck
   url: https://john-seb.github.io/talk/mach/john_mach_online.pdf
  
 url_code: ""
