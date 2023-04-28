@@ -55,13 +55,10 @@ ul.posts li {
     padding: 0px;
 }
 .left {
-  width: 290px;
+    width: 290px;
 }
 .right {
-  width: 50%;
-}
-.middle {
-  width: 50px;
+    width: 710px;
 }
 .row:after {
     content: "";
