@@ -58,7 +58,9 @@ ul.posts li {
     width: 290px;
 }
 .right {
-    width: 710px;
+    width: 71%;
+    max-width: 710px;
+    min-width: 290px;
 }
 .row:after {
     content: "";
