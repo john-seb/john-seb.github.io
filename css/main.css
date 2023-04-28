@@ -1,14 +1,15 @@
-body {
+@media only screen and (min-width: 802px) {
+  body {
     margin: 60px auto;
     width: 50%;
     max-width: 800px;
-    min-width: 400px;
+    }
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 801px) {
   body {
     margin: 60px auto;
     width: 90%;
-    min-width: 250px;
+    min-width: 220px;
     }
 }
 nav ul, footer ul {
