@@ -50,13 +50,13 @@ ul.posts li {
 }
 .column {
     float: left;
-    padding: 20px;
+    padding: 0px;
 }
 .left {
-    width: 30%;
+    width: 50%;
 }
 .right {
-    width: 70%;
+    width: 50%;
 }
 .row:after {
     content: "";
