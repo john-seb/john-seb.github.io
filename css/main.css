@@ -25,11 +25,13 @@ nav ul li, footer ul li {
 }
 a {
     font-size: 20px;
+    line-height: 1.4em;
     text-decoration: none;
     color: #878787;
 }
 a:hover {
     font-size: 20px;
+    line-height: 1.4em;
     text-decoration: none;
     color: #fa8072;
 }
