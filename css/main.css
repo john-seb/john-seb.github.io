@@ -50,3 +50,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.container {
+  display: flex;
+  flex-direction: row;
+}
+img {
+  order: 1;
+}
+p {
+  order: 2;
+}
