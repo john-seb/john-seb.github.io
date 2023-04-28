@@ -53,10 +53,14 @@ ul.posts li {
     padding: 0px;
 }
 .left {
-    width: 50%;
+    width: 25%;
+}
+}
+.middle {
+    width: 5%;
 }
 .right {
-    width: 50%;
+    width: 70%;
 }
 .row:after {
     content: "";
