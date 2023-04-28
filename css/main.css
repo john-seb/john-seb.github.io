@@ -41,27 +41,25 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
 ul.posts li {
     list-style: none;
 }
 .column {
-  float: left;
-  padding: 20px;
+    float: left;
+    padding: 20px;
 }
 .left {
-  width: 25%;
+    width: 30%;
 }
 .right {
-  width: 75%;
+    width: 70%;
 }
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
