@@ -50,10 +50,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.two-columns-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-.two-columns-grid > * {
-    padding:1rem;
-}
