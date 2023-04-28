@@ -2,7 +2,14 @@ body {
     margin: 60px auto;
     width: 50%;
     max-width: 800px;
-    min-width: 300px;
+    min-width: 400px;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    margin: 60px auto;
+    width: 90%;
+    min-width: 250px;
+    }
 }
 nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
@@ -43,27 +50,6 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-ul.posts li {
-    list-style: none;
-}
-.column {
-    float: left;
-    padding: 0px;
-}
-.left {
-    width: 290px;
-}
-.right {
-    width: 71%;
-    max-width: 710px;
-    min-width: 290px;
-}
-.row:after {
-    content: "";
     display: table;
     clear: both;
 }
