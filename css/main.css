@@ -35,6 +35,12 @@ a:hover {
     text-decoration: none;
     color: #fa8072;
 }
+a:active {
+    font-size: 20px;
+    line-height: 1.4em;
+    text-decoration: none;
+    color: #fa8072;
+}
 h1 {
     font-size: 40px;
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
