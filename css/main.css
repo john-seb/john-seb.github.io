@@ -16,4 +16,4 @@ p { font-size: 20px; line-height: 1.4em; font-family:'Helvetica Neue', 'Helvetic
 footer { position: absolute; bottom: 50px; text-align: left; }
 a.footer { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #d3d3d3; }
 a.footer:hover, #about.active, #research.active, #publications.active, #contact.active { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #fab7af; }
-a.footer { cursor: url("https://raw.githubusercontent.com/alyulina/alyulina.github.io/master/img/cursor_pink.png"), auto !important; }
+a.footer { cursor: url("https://raw.githubusercontent.com/alyulina/alyulina.github.io/master/img/cursor_light_pink.png"), auto !important; }
