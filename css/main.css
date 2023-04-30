@@ -1,7 +1,7 @@
-html { cursor: url("https://raw.githubusercontent.com/alyulina/alyulina.github.io/master/img/cursor_black.png"), auto !important; min-height: 100%; }
+html { cursor: url("https://raw.githubusercontent.com/alyulina/alyulina.github.io/master/img/cursor_black.png"), auto !important; }
 
-@media only screen and (min-width: 802px) { body { margin: 60px auto; width: 50%; max-width: 800px; min-height: 100%; } }
-@media only screen and (max-width: 801px) { body { margin: 60px auto; width: 90%; min-width: 405px; -webkit-text-size-adjust: 100%; min-height: 100%;} }
+@media only screen and (min-width: 802px) { body { margin: 60px auto; width: 50%; max-width: 800px; } }
+@media only screen and (max-width: 801px) { body { margin: 60px auto; width: 90%; min-width: 405px; -webkit-text-size-adjust: 100%; } }
 
 nav ul { font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; margin-top: 0px; margin-bottom: 30px; }
 nav ul li { display: inline; margin-right: 20px; }
@@ -13,7 +13,7 @@ a { cursor: url("https://raw.githubusercontent.com/alyulina/alyulina.github.io/m
 h1 { font-size: 40px; font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; margin-bottom: 10px; }
 p { font-size: 20px; line-height: 1.4em; font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; color: #333; margin-bottom: 10px; margin-top: 0px; overflow: scroll; }
 
-footer { position: absolute; bottom: 50px; text-align: left; }
+@media only screen and (min-width: 802px) { footer { position: absolute; bottom: 50px; text-align: left; } }
 a.footer { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #d3d3d3; }
 a.footer:hover { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #fab7af; }
 a.footer { cursor: url("https://raw.githubusercontent.com/alyulina/alyulina.github.io/master/img/cursor_light_pink.png"), auto !important; }
