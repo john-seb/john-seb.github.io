@@ -1,7 +1,7 @@
 html { cursor: url("https://raw.githubusercontent.com/alyulina/alyulina.github.io/master/img/cursor_black.png"), auto !important; }
 
 @media only screen and (min-width: 1081px) { body { margin: 60px auto; width: 800px; } }
-@media only screen and (max-width: 1080px) { body { margin: 60px auto; width: 405 px; transform: scale(2.0); transform-origin: 0 0; -webkit-text-size-adjust: 100%; } }
+@media only screen and (max-width: 1080px) { body { margin: 60px auto; width: 90%; min-width: 405px; max-width: 600px; transform: scale(2.0); transform-origin: 0 0; -webkit-text-size-adjust: 100%; } }
 
 nav ul { font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; margin-top: 0px; margin-bottom: 30px; }
 nav ul li { display: inline; margin-right: 20px; }
