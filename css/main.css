@@ -5,7 +5,7 @@ nav ul { font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; paddi
 nav ul li { display: inline; margin-right: 20px; }
 
 a { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #00AB8E; }
-a:hover, #about.active, #research.active, #publications.active, #contact.active { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #DBF711; }
+a:hover, #about.active, #research.active, #publications.active, #contact.active { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #FD5500; }
 
 h1 { font-size: 40px; font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; margin-bottom: 10px; overflow: visible !important;}
 p { font-size: 20px; line-height: 1.4em; font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; color: #333; margin-bottom: 10px; margin-top: 0px; overflow: visible !important; }
