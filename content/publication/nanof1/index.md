@@ -17,6 +17,10 @@ links:
   icon_pack: fab
   name: Article
   url: https://doi.org/10.1002/apxr.202370020
+- icon: site
+  icon_pack: fab
+  name: Arxiv
+  url: https://arxiv.org/abs/2205.09437
 url_code: ""
 url_pdf: ""
 url_slides: ""
