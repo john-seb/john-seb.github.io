@@ -5,12 +5,25 @@
     <link>https://john-seb.github.io/articles/</link>
       <atom:link href="https://john-seb.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     <description>Articles</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://john-seb.github.io/media/prof.jpeg</url>
       <title>Articles</title>
       <link>https://john-seb.github.io/articles/</link>
     </image>
+    
+    <item>
+      <title>Ernst Mach- Analysis of Sensations</title>
+      <link>https://john-seb.github.io/articles/mach/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/mach/</guid>
+      <description>&lt;p&gt;Ernst Mach, physicist and philosopher, addresses the fundamental problem of the truth of observations in his 1900 treatise L&amp;rsquo;Analyse des Sensations. Here we discuss his views on how a physical truth shall be identified from human observations and the influence of his ideas on modern science and philosophy.&lt;/p&gt;
+&lt;object data=&#34;https://john-seb.github.io/talk/mach/john_mach_online.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+    &lt;embed src=&#34;https://john-seb.github.io/talk/mach/john_mach_online.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/talk/mach/john_mach_online.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;</description>
+    </item>
     
     <item>
       <title>Steven Weinberg: Four Golden Lessons</title>
@@ -296,7 +309,7 @@
       <description>&lt;div class=text-justify&gt; 
 &lt;p&gt;To paraphrase Prof Alex Slocum&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, if you are a serious researcher in this century, you should have a website; and if you don’t, don’t expect to talk.&lt;br&gt;
 I believe that he&amp;rsquo;s absolutely right!&lt;/p&gt;
-&lt;p&gt;I use markdown extensively to write everything from emails to technical documents and manuscripts.&lt;/p&gt;
+&lt;p&gt;I often use markdown to write everything from emails to technical documents and manuscripts.&lt;/p&gt;
 &lt;p&gt;These are &lt;em&gt;shortcuts/ tricks/ resources&lt;/em&gt; that I’ve looked up over time. Just posting it here for future reference- yours and mine.&lt;/p&gt;
 &lt;/div&gt;   
 &lt;hr&gt;
@@ -462,7 +475,7 @@ Duplicated footnote reference[^second].
     toc: yes
     toc_depth: 5
     number_sections: true
-    preserve_yaml: true
+	preserve_yaml: true
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;8-reference&#34;&gt;8 Reference&lt;/h2&gt;
 &lt;ol&gt;
@@ -478,14 +491,14 @@ Emory University&lt;/a&gt;&lt;/li&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NkbY2RHviPU&amp;amp;ab_channel=TeawithTeachers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tea with Alexander Slocum: an
-interview&lt;/a&gt;\ &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+interview&lt;/a&gt;\&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;http://pergatory.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Slocum’s website&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://pergatory.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Slocum’s website&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/html-document.html#appearance-and-style&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rmarkdown
-Catalogue&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Catalogue&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -503,6 +516,70 @@ Catalogue&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#3
 &lt;p&gt;&lt;img src=&#34;./page2.jpg&#34; alt=&#34;Page 2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Read the web version instead: &lt;a href=&#34;./fulldoc.html&#34;&gt;Tyres: The Science of Black Magic&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>On Tread Patterns: Parameterisation and Inverse Design</title>
+      <link>https://john-seb.github.io/articles/treadpatterns/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/treadpatterns/</guid>
+      <description>&lt;p&gt;A novel method for the inverse design of tyre tread patterns is presented. This method which makes use of structural and geometric analysis is particularly useful in the designing of passenger car and bus/truck radial tyres.
+&lt;object data=&#34;https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+&lt;embed src=&#34;https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf&#34;&gt;
+&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/talk/treadpatterns/treadpatterns.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;/embed&gt;
+&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAE Short Course on Aero Design</title>
+      <link>https://john-seb.github.io/articles/saefoil/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/saefoil/</guid>
+      <description>&lt;h2 id=&#34;forenoon-foil-geometry-and-wing-design-fundamentals&#34;&gt;Forenoon: Foil Geometry and Wing Design Fundamentals&lt;/h2&gt;
+&lt;p&gt;This is a comprehensive introduction to the underlying mathematics and design process of choosing the best fit airfoil section for a particular application. The math is developed and applied.
+An overview of the NACA families and their applications is given. The process of choosing the right foil from the existing databases is charted out.
+The session ends with a practical exercise. This is followed by a CAD and CFD workshop to analyse the foil.&lt;/p&gt;
+&lt;object data=&#34;https://john-seb.github.io/talk/saefoil/foil1.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+    &lt;embed src=&#34;https://john-seb.github.io/talk/saefoil/foil1.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/talk/saefoil/foil1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;afternoon-testing-winds--history-theory-and-practice-of-wind-tunnel-testing&#34;&gt;Afternoon: Testing Winds- History, Theory and Practice of Wind Tunnel Testing&lt;/h2&gt;
+&lt;p&gt;The afternoon session is a &lt;em&gt;wind tunnel workshop&lt;/em&gt;. A NACA 0012 foil is tested in the lab and the pressure distribution is compared with the CFD results from the forenoon session.
+Furthermore, a comprehensive timeline of the development of various experimental methods is introduced.
+&lt;object data=&#34;https://john-seb.github.io/talk/saefoil/foil2.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+&lt;embed src=&#34;https://john-seb.github.io/talk/saefoil/foil2.pdf&#34;&gt;
+&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/talk/saefoil/foil2.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;/embed&gt;
+&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microfluidics for the World</title>
+      <link>https://john-seb.github.io/articles/microf1/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/microf1/</guid>
+      <description>&lt;object data=&#34;https://john-seb.github.io/talk/microf1/microf1.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+    &lt;embed src=&#34;https://john-seb.github.io/talk/microf1/microf1.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/talk/microf1/microf1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;</description>
+    </item>
+    
+    <item>
+      <title>Film-Evaporation Microthruster for Cubesats</title>
+      <link>https://john-seb.github.io/articles/microt/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/articles/microt/</guid>
+      <description>&lt;object data=&#34;https://john-seb.github.io/talk/microt/microt1.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+    &lt;embed src=&#34;https://john-seb.github.io/talk/microt/microt1.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/talk/microt/microt1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;</description>
     </item>
     
   </channel>

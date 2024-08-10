@@ -20,7 +20,7 @@ summary: Some of the handy Markdown tricks I've come across and found useful, an
 To paraphrase Prof Alex Slocum[^1][^2], if you are a serious researcher in this century, you should have a website; and if you don’t, don’t expect to talk.   
 I believe that he's absolutely right! 
 
-I use markdown extensively to write everything from emails to technical documents and manuscripts.
+I often use markdown to write everything from emails to technical documents and manuscripts.
 
 These are *shortcuts/ tricks/ resources* that I’ve looked up over time. Just posting it here for future reference- yours and mine.
 </div>   

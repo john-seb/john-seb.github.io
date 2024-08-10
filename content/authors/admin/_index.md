@@ -6,7 +6,7 @@ title: John Sebastian
 superuser: true
 
 # Role/position
-role: Grad Student
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-About Me: Mechanics; Applied Mathematics; Engineering for Biology
+About Me: Fluid Mechanics; Applied Mathematics; Mechanical Intelligence
 
 interests:
 - Fluid Mechanics
 - Applied Mathematics
 - Nano, Micro, Bio Fluidics
-- Electokinetics
+- Mechanical Intelligence
 
 # education:
  # courses:
@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:4johnsebastian@gmail.com"  # For a direct email link, use "mailto:4johnsebastian@gmail.com".
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/John-Sebastian-11
+# - icon: researchgate
+#   icon_pack: fab
+#   link: https://www.researchgate.net/profile/John-Sebastian-11
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/johnmcseb
@@ -84,10 +84,8 @@ highlight_name: false
 
 
 ---
-Hello! I am a scientist and engineer pursuing interdisciplinary research in fluid mechanics and soft matter (bio)physics, using a combination of  theoretical and experimental approaches, in micro/nano scale systems. My research over the past several years has been on the investigation of geometry (at smaller and smaller scales) and the associated physics- especially of nanofluidic systems, air/ hydrofoils, flexible structures, architectured materials and frugal microfluidic devices. 
+Hello! I am a scientist and engineer pursuing interdisciplinary research in fluid mechanics and soft matter (bio)physics, using a combination of  theoretical and experimental approaches. My research over the past several years has been on the investigation of geometry (at smaller and smaller scales) and the associated physics- especially of nanofluidic systems, air/ hydrofoils, flexible structures, architectured materials and frugal microfluidic devices. 
 
-I am currently a PhD student in the [Soft Matter Biophysics group](https://jensen-research.com/) at the Technical University of Denmark, 
-and I aim to partake in the discovery and development of new physics at tiny scales where the science becomes truly interdisciplinary, 
-to aid the study of the natural world around us and to build solutions to unmet societal needs.
+I am currently a PhD student in the [Soft Matter Biophysics group](https://jensen-research.com/) at the Technical University of Denmark, and I aim to partake in the discovery and development of new physics at tiny scales where the science becomes truly interdisciplinary, to aid the study of the natural world around us and to build solutions to unmet societal needs.
 
 

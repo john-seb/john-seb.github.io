@@ -18,7 +18,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-08-10"
+date: "2024-08-10"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -76,7 +76,7 @@ math: true
 
 #Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 
-active: false
+active: true
 ---
 
 ### Premise:
