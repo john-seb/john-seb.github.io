@@ -3,7 +3,7 @@ title: Traversing a thin lubricant film in finite time
 summary: J  Sebastian, A L Schødt, K H Jensen
 tags:
 - Fluid Mechanics
-date: "2022-05-25T00:00:00Z"
+date: "2024-08-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
