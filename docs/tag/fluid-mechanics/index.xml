@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fluid Mechanics | John Sebastian</title>
+    <link>https://john-seb.github.io/tag/fluid-mechanics/</link>
+      <atom:link href="https://john-seb.github.io/tag/fluid-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fluid Mechanics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://john-seb.github.io/media/prof.jpeg</url>
+      <title>Fluid Mechanics</title>
+      <link>https://john-seb.github.io/tag/fluid-mechanics/</link>
+    </image>
+    
+    <item>
+      <title>Traversing a thin lubricant film in finite time</title>
+      <link>https://john-seb.github.io/publication/balls/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://john-seb.github.io/publication/balls/</guid>
+      <description>&lt;p&gt;In this study, we investigate the dynamics of particles overcoming the hydrodynamic barrier posed by a thin fluid film to achieve contact in finite time, a phenomenon critical in various natural and engineered processes such as enzyme docking, catalysis, and vesicular transport. Using the framework of lubrication theory, which posits that drag force scales inversely with the film thickness, we explore how particles can achieve finite-time contact despite theoretical predictions of infinite time under constant force. We conduct experiments where a spherical particle settles under gravity and magnetic attraction, the latter introducing a spatially varying force. Our findings reveal that a spatially varying force significantly alters the settling trajectory, enabling finite-time contact. The results are supported by a simple model that links hydrodynamic drag and the impact of spatially varying forces. Finally, we illustrate that forces can be inferred from kinematic observations. In the future, this may provide insights into biological and microscale systems where direct force measurements are challenging. Our study demonstrates that varying forces can be harnessed to overcome lubrication barriers, offering potential applications in designing self-assembly systems and improving surface interaction processes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
