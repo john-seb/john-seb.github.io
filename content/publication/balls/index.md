@@ -13,8 +13,8 @@ image:
   focal_point: Smart
 
 links:
-- icon: site
-  icon_pack: fab
+- icon: archive
+  icon_pack: fas
   name: Arxiv
   url: https://arxiv.org/abs/2408.02443
 url_code: ""
