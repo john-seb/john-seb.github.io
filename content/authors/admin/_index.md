@@ -47,7 +47,7 @@ social:
 #   link: https://www.researchgate.net/profile/John-Sebastian-11
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/johnmcseb
+  link: https://twitter.com/john_mech_seb
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://linkedin.com/in/john-sebastian

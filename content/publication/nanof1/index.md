@@ -9,7 +9,7 @@ date: "2022-05-25T00:00:00Z"
 external_link: ""
 
 image:
-  caption: A multichannel nanofluidic array system is equivalent to a stack of 'unit-cells'.
+  caption: A multichannel nanofluidic array system is equivalent to a stack of self repeating 'unit-cells'.
   focal_point: Smart
 
 links:
