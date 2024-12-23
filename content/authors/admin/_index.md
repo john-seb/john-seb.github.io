@@ -20,7 +20,7 @@ interests:
 - Fluid Mechanics
 - Applied Mathematics
 - Nano, Micro, Bio Fluidics
-- Mechanical Intelligence
+- Plant Biomechanics
 
 # education:
  # courses:
@@ -80,12 +80,22 @@ highlight_name: false
 
 
 # Previous home statement
-# Hello! I am a scientist and engineer pursuing interdisciplinary research in fluid mechanics, electrokinetics and nano-scale systems, with a strong theoretical and applied math focus. My research over the past several years has been on the investigation of geometry (at smaller and smaller scales) and the associated physics- especially of air/ hydrofoils, flexible structures, architectured materials and (micro)fluidic systems. I am currently a master's student in the Green Lab ([the Fluid Mech Lab](https://fluidmechlab.com/)) and I aim to partake in the discovery and development of new physics at tiny scales where the science becomes truly interdisciplinary, to aid the study of the natural world around us and to build solutions to unmet societal needs.
+# Hello! I am a scientist and engineer pursuing interdisciplinary research in fluid mechanics, electrokinetics and nano-scale systems, 
+# with a strong theoretical and applied math focus. 
+# My research over the past several years has been on the investigation of geometry (at smaller and smaller scales) 
+# and the associated physics- especially of air/ hydrofoils, flexible structures, architectured materials and (micro)fluidic systems. 
+# I am currently a master's student in the Green Lab ([the Fluid Mech Lab](https://fluidmechlab.com/)) and 
+# I aim to partake in the discovery and development of new physics at tiny scales where the science becomes truly interdisciplinary, 
+# to aid the study of the natural world around us and to build solutions to unmet societal needs.
 
 
 ---
-Hello! I am a scientist and engineer pursuing interdisciplinary research in fluid mechanics and soft matter (bio)physics, using a combination of  theoretical and experimental approaches. My research over the past several years has been on the investigation of geometry (at smaller and smaller scales) and the associated physics- especially of nanofluidic systems, air/ hydrofoils, flexible structures, architectured materials and frugal microfluidic devices. 
+Hello! I am a scientist and engineer pursuing interdisciplinary research in fluid mechanics and soft matter (bio)physics, 
+using a combination of  theoretical and experimental approaches. 
+My research over the past several years has been on the investigation of geometry (at smaller and smaller scales) and the associated physics- 
+especially of nanofluidic systems, air/ hydrofoils, flexible structures, architectured materials and frugal microfluidic devices. 
 
-I am currently a PhD student in the [Soft Matter Biophysics group](https://jensen-research.com/) at the Technical University of Denmark, and I aim to partake in the discovery and development of new physics at tiny scales where the science becomes truly interdisciplinary, to aid the study of the natural world around us and to build solutions to unmet societal needs.
-
-
+I am currently a PhD student in the [Soft Matter Biophysics group](https://jensen-research.com/) at the Technical University of Denmark, 
+and I aim to partake in the discovery and development of new physics at tiny scales where the science becomes truly interdisciplinary.
+ 
+ 
