@@ -47,4 +47,3 @@ Depending on the question, I combine:
 ## What I’m exploring now
 Broadly: **how geometry encodes physics**, and how to exploit that for (i) better mechanistic understanding and (ii) simpler, more robust devices.
 
-If you’d like, I can reformat this page to match your theme’s exact HTML structure (e.g., keeping the same `<nav>` and `.blurb` wrapper), but written in Markdown with only minimal inline HTML.
