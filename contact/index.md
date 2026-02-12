@@ -22,8 +22,12 @@ permalink: /contact/
   <img src="/img/icons/github.svg" width="18" alt="GitHub" class="social-icon">
 </a> -->
 
+<a href="mailto:johnseb@dtu.dk" target="_blank" rel="noopener">
+  <img src="/img/icons/mail.svg" width="24" alt="Email" class="social-icon">
+</a>
+
 <a href="mailto:4johnsebastian@gmail.com" target="_blank" rel="noopener">
-  <img src="/img/icons/mail.svg" width="18" alt="Email" class="social-icon">
+  <img src="/img/icons/gmail.svg" width="24" alt="Gmail" class="social-icon">
 </a>
 
 <a href="https://www.linkedin.com/in/john-sebastian" target="_blank" rel="noopener">

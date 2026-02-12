@@ -86,9 +86,7 @@ permalink: /publications/
 
       pubs.forEach(p => {
         let liHTML = `<p>
-          ${process(p.authors)}<br>
-          ${renderTitle(p)}
-          ${p.journal}
+          ${process(p.authors)} ${renderTitle(p)} ${p.journal}
           ${renderNotes(p)}
         </p>`;
 
