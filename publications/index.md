@@ -19,7 +19,7 @@ permalink: /publications/
 <ol id="pubList" reversed style="padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;"></ol>
 <br>
 
-<h2><strong>Manuscripts under review</strong></h2>
+<!-- <h2><strong>Manuscripts under review</strong></h2>
 <ol reversed style="list-style-type:none; padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;">
 	<li>
 		<p>
@@ -29,24 +29,21 @@ permalink: /publications/
 		</p>
 	</li>
 </ol>
-<br>
+<br> -->
 
 <h2><strong>Manuscripts in preparation</strong></h2>
 <ol reversed style="list-style-type:none; padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;">
 	<li><p><strong>Lyulina AS</strong>, Good BH. Genetic diversity under nonequilibrium demography.</p></li>
 	<li>
 		<p>
-			Karmakar S*, Xiong X*, <strong>Lyulina AS*</strong>, Hebert JD, ...
-			Variable adaptation drives pancreatic cancer metastasis across diverse environments.
-			<a class="note-link" href="https://github.com/alyulina/metastatic-phenotypes" target="_blank" rel="noopener">code</a>
+			<strong>Sebastian J*</strong>, Stone HA, Jensen KH.
+			Electrokinetic constaints on intercellular signalling in plants.
+			<a class="note-link" href="https://github.com/alyulina/metastatic-phenotypes" target="_blank" rel="noopener">url</a>
 		</p>
 	</li>
-	<li><p><strong>Lyulina AS</strong>, Severson A, Juan J, Sebastian L, ... Early dynamics of cancer growth inferred from tracking thirty million clonal tumors in vivo.</p></li>
 </ol>
 
-<br>
-<hr style="width:25%" align="left">
-<p class="footnote"><sup>*</sup> These authors contributed equally.</p>
+
 
 <script>
   // Highlight my name
@@ -111,7 +108,7 @@ permalink: /publications/
 
 
 
-<!-- # Publications
+# Publications
 
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 
@@ -123,4 +120,4 @@ permalink: /publications/
 {% if p.arxiv %} arXiv: {{ p.arxiv }}{% endif %}
 {% if p.url %} [Link]({{ p.url }}){% endif %}
 
-{% endfor %} -->
+{% endfor %}
