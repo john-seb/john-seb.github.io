@@ -3,57 +3,75 @@ layout: default
 title: John Sebastian | publications
 permalink: /publications/
 ---
-
 <nav>
 	<ul>
-		<li><a href="/about">about</a></li>
+		<li><a href="/">about</a></li>
 		<li><a href="/research">research</a></li>
 		<li><a id="publications" class="active" href="/publications">publications</a></li>
 		<li><a href="/code">code</a></li>
-		<li><a href="/writing">writing</a></li>
-		<li><a href="/cv">cv</a></li>
+		<li><a href="/writing">notes/talks</a></li>
 		<li><a href="/contact">contact</a></li>
 	</ul>
 </nav>
 
+
 # Publications
 
-<div class="pub-table">
-  <div class="pub-header">
-    <div>Paper</div>
-    <div>Details</div>
-    <div>Links</div>
-  </div>
 
-  {% assign pubs = site.data.publications | sort: "year" | reverse %}
-  {% for p in pubs %}
-  <div class="pub-row">
-    <div class="pub-paper">
-      <img class="pub-thumb" src="{{ p.thumbnail }}" alt="Thumbnail for {{ p.title }}">
-      <div class="pub-title">{{ p.title }}</div>
-    </div>
+---
 
-    <div class="pub-details">
-      <div class="pub-authors">{{ p.authors }}</div>
-      <div class="pub-venue">{{ p.venue }} · {{ p.year }}</div>
+## Journal Articles
 
-      {% if p.tags %}
-      <div class="pub-tags">
-        {% for t in p.tags %}
-          <span class="pub-tag">{{ t }}</span>
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
+### Traversing a Thin Lubricant Film in Finite Time  
+This work investigates how particles overcome a thin-film hydrodynamic barrier to make contact, with relevance to lubrication, adhesion, and interfacial transport problems.
 
-    <div class="pub-links">
-      {% if p.links.paper %}<a href="{{ p.links.paper }}" target="_blank" rel="noopener">paper</a>{% endif %}
-      {% if p.links.pdf %}<a href="{{ p.links.pdf }}" target="_blank" rel="noopener">pdf</a>{% endif %}
-      {% if p.links.doi %}<a href="{{ p.links.doi }}" target="_blank" rel="noopener">doi</a>{% endif %}
-      {% if p.links.arxiv %}<a href="{{ p.links.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
-      {% if p.links.code %}<a href="{{ p.links.code }}" target="_blank" rel="noopener">code</a>{% endif %}
-      {% if p.links.project %}<a href="{{ p.links.project }}" target="_blank" rel="noopener">project</a>{% endif %}
-    </div>
-  </div>
-  {% endfor %}
-</div>
+- *John Sebastian*  
+- Topic: thin-film hydrodynamics, dissipation barriers, scaling laws  
+- Link: Available on my website publication page
+
+---
+
+### Electrical-Circuit Models for Nanofluidic Transport  
+A reduced-order modeling approach for nanofluidic systems, using circuit analogies to connect experimental behavior with mechanistic understanding.
+
+- Topic: nanofluidics, confinement-driven transport  
+- Link: Listed under publications on my homepage
+
+---
+
+## Applied / Device-Oriented Work
+
+### Impedance-Based Detection of Microplastics in Inland Waters  
+A physics-driven sensing direction aimed at building low-cost, field-deployable approaches for identifying microplastics in environmental samples.
+
+- Topic: frugal microfluidics, impedance spectroscopy  
+- Link: Project description available on my site
+
+---
+
+## Preprints and Ongoing Work
+
+I am currently exploring several questions at the interface of:
+
+- geometry-driven transport  
+- interfacial flows and thin films  
+- soft and architectured materials  
+- reduced-order modeling for complex physical systems  
+
+Updates and manuscripts in preparation will be added here.
+
+---
+
+
+
+{% assign pubs = site.data.publications | sort: "year" | reverse %}
+
+{% for p in pubs %}
+### {{ p.title }}
+**{{ p.authors | join: ", " }}** ({{ p.year }}). *{{ p.venue }}*.
+
+{% if p.doi %}DOI: {{ p.doi }}{% endif %}
+{% if p.arxiv %} arXiv: {{ p.arxiv }}{% endif %}
+{% if p.url %} [Link]({{ p.url }}){% endif %}
+
+{% endfor %}

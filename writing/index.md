@@ -9,8 +9,7 @@ permalink: /writing/
 		<li><a href="/research">research</a></li>
 		<li><a id="publications" class="active" href="/publications">publications</a></li>
 		<li><a href="/code">code</a></li>
-		<li><a href="/writing">writing</a></li>
-		<li><a href="/cv">cv</a></li>
+		<li><a href="/writing">notes/talks</a></li>
 		<li><a href="/contact">contact</a></li>
 	</ul>
 </nav>
