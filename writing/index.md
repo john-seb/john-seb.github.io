@@ -15,4 +15,4 @@ permalink: /writing/
 
 # Notes/Talks
 
-under construction
+coming soon.
