@@ -282,3 +282,10 @@ a.footer:hover {
   opacity: 1;
   transform: translateY(-2px);
 }
+
+.content-image {
+  display: block;
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+}
