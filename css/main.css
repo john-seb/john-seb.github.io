@@ -35,7 +35,7 @@ a {
   font-size: 20px;
   line-height: 1.4em;
   text-decoration: none;
-  color: #1a1268; /* default dark grey */
+  color: #138088; /* default dark grey */
 }
 
 a:hover,
@@ -149,7 +149,7 @@ nav ul li {
 
 .note-link {
   background-color: #f4f4f4;
-  color: #4035b9;
+  color: #3b5cf0;
   padding: 1px 4px;
   border-radius: 4px;
   font-size: 0.9em;
