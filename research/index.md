@@ -4,46 +4,54 @@ title: John Sebastian | research
 permalink: /research/
 ---
 
+<nav>
+	<ul>
+		<li><a href="/about">about</a></li>
+		<li><a id="research" class="active" href="/research">research</a></li>
+		<li><a href="/publications">publications</a></li>
+		<li><a href="/code">code</a></li>
+		<li><a href="/writing">writing</a></li>
+		<li><a href="/cv">cv</a></li>
+		<li><a href="/contact">contact</a></li>
+	</ul>
+</nav>
+
+<div class="blurb">
+
 # Research
 
-My work sits at the intersection of **fluid mechanics** and **soft-matter / (bio)physics**, with an emphasis on how **geometry across scales** (from macro to nano) governs transport, forces, and function. Over the past several years, a common thread has been connecting *shape* to *physics* in systems ranging from nanofluidic devices to aerodynamic/hydrodynamic surfaces and flexible/architectured materials. :contentReference[oaicite:2]{index=2}
+My work lies at the intersection of **fluid mechanics**, **soft matter physics**, and **biophysical transport**, with a central focus on how *geometry across scales* governs physical behavior.
+
+A recurring theme in my research is understanding how confinement, curvature, and structural complexity influence transport, force transmission, and system-level response — particularly in microscale and nanoscale systems.
 
 ---
 
-## Themes
+## Geometry-driven transport
 
-### Geometry-driven transport at small scales
-I’m interested in how confinement and surface geometry change the governing physics—e.g., effective resistance, interfacial forces, and nonlinear responses in **nanofluidic systems** and microstructured channels. :contentReference[oaicite:3]{index=3}
-
-### Interfacial flows and thin films
-Thin films often act like “hydrodynamic barriers,” where dissipation can diverge as thickness decreases. This shows up in both engineered and biological settings, and motivates simplified (but predictive) models based on lubrication theory. :contentReference[oaicite:4]{index=4}
-
-### Frugal microfluidics and field-deployable diagnostics
-I like problems where the physics is elegant *and* the constraints are real: low cost, minimal infrastructure, and robust sensing. One example direction is using **electrical impedance** to detect microplastics in inland waters. :contentReference[oaicite:5]{index=5}
+I study how surface structure and confinement alter transport phenomena in fluidic systems. This includes reduced-order modeling of nanofluidic systems using electrical-circuit analogies and scaling arguments to connect experiment and theory.
 
 ---
 
-## Selected work (examples)
+## Thin-film hydrodynamics and interfacial mechanics
 
-### Traversing a thin lubricant film in finite time
-A study of how particles overcome a thin-film hydrodynamic barrier to make contact—relevant for processes like docking/catalysis and engineered particulate interactions. :contentReference[oaicite:6]{index=6}
-
-### Electrical-circuit modeling of nanofluidic systems
-Using circuit analogies to make complex nanoscale transport easier to reason about and to connect experiments to reduced-order models. :contentReference[oaicite:7]{index=7}
-
-### Detection of microplastics in inland waters using impedance spectroscopy
-A frugal-device direction aimed at identifying microplastics that often go undetected in water samples, leveraging simple electrical measurements. :contentReference[oaicite:8]{index=8}
+Thin films act as hydrodynamic barriers where dissipation increases dramatically as film thickness decreases. Understanding how particles traverse these barriers informs problems in adhesion, lubrication, and interfacial transport.
 
 ---
 
-## Methods & tools
-Depending on the question, I combine:
-- reduced-order modeling (scaling laws, circuit analogs, lubrication approximations),
-- experimental prototyping (microfluidic and soft-matter systems),
-- and computational workflows for data reduction and model fitting.
+## Frugal microfluidics and sensing
+
+I am interested in physics-driven device design, especially for low-cost and field-deployable systems. One direction involves electrical impedance methods for detecting microplastics in inland water systems.
 
 ---
 
-## What I’m exploring now
-Broadly: **how geometry encodes physics**, and how to exploit that for (i) better mechanistic understanding and (ii) simpler, more robust devices.
+## Broader objective
 
+Across these projects, my goal is to connect:
+
+- Geometry → Governing equations  
+- Governing equations → Reduced-order models  
+- Reduced-order models → Practical devices  
+
+By identifying how structure encodes physics, we can design simpler, more robust systems for sensing, transport control, and materials engineering.
+
+</div>
