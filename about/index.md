@@ -15,7 +15,32 @@ permalink: /about/
 </nav>
 
 
-My work sits at the intersection of **fluid mechanics**, **soft matter**, and **biophysical transport**, with a focus on how **geometry across scales** governs physical behavior.
+Hello! I am a scientist and engineer pursuing interdisciplinary research in fluid mechanics and soft matter (bio)physics, using a combination of theoretical and experimental approaches. 
+My research over the past several years has been on the investigation of geometry (at smaller and smaller scales) and the associated physics- especially of nanofluidic systems, air/ hydrofoils, flexible structures, architectured materials and frugal microfluidic devices.
+
+I am currently a PhD student in the Soft Matter Biophysics group at the Technical University of Denmark, and I aim to partake in the discovery and development of new physics at tiny scales where the science becomes truly interdisciplinary.
+
+$$-\grad P + \grad ^2 u$$
 
 
-Form and function through toy problems and actual toys.
+----
+
+<div class="social-row">
+
+<a href="https://github.com/john-seb" target="_blank" rel="noopener">
+  <img src="/img/icons/github.svg" alt="GitHub" class="social-icon">
+</a>
+
+<a href="https://www.linkedin.com/in/john-sebastian" target="_blank" rel="noopener">
+  <img src="/img/icons/linkedin.svg" alt="LinkedIn" class="social-icon">
+</a>
+
+<a href="https://twitter.com/johnmcseb" target="_blank" rel="noopener">
+  <img src="/img/icons/twitter.svg" alt="Twitter" class="social-icon">
+</a>
+
+<a href="https://bsky.app/profile/johnseb.bsky.social" target="_blank" rel="noopener">
+  <img src="/img/icons/bluesky.svg" alt="Bluesky" class="social-icon">
+</a>
+
+</div>

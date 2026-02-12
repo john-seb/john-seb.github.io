@@ -35,7 +35,7 @@ a {
   font-size: 20px;
   line-height: 1.4em;
   text-decoration: none;
-  color: #333333; /* default dark grey */
+  color: #1a1268; /* default dark grey */
 }
 
 a:hover,
@@ -258,4 +258,27 @@ a.footer {
 
 a.footer:hover {
   color: #16416f;
+}
+
+
+
+
+/* Social icons horizontal layout */
+.social-row {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.social-icon {
+  width: 26px;
+  height: 26px;
+  opacity: 0.8;
+  transition: opacity 0.2s ease, transform 0.15s ease;
+}
+
+.social-icon:hover {
+  opacity: 1;
+  transform: translateY(-2px);
 }

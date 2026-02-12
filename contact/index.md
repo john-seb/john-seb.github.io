@@ -16,26 +16,22 @@ permalink: /contact/
 
 ## Contact
 
-<div style="display:flex; flex-direction:column; gap:12px; margin-top:20px;">
+<div class="social-row">
 
-<!-- <a href="https://github.com/john-seb" target="_blank">
-  <img src="/img/icons/github.svg" width="18" style="vertical-align:middle; margin-right:8px;">
-  GitHub — john-seb
-</a> -->
-
-<a href="https://www.linkedin.com/in/john-sebastian" target="_blank">
-  <img src="/img/icons/linkedin.svg" width="18" style="vertical-align:middle; margin-right:8px;">
-  LinkedIn — john-sebastian
+<a href="https://github.com/john-seb" target="_blank" rel="noopener">
+  <img src="/img/icons/github.svg" alt="GitHub" class="social-icon">
 </a>
 
-<a href="https://bsky.app/profile/johnseb.bsky.social" target="_blank">
-  <img src="/img/icons/bluesky.svg" width="18" style="vertical-align:middle; margin-right:8px;">
-  Bluesky — johnseb.bsky.social
+<a href="https://www.linkedin.com/in/john-sebastian" target="_blank" rel="noopener">
+  <img src="/img/icons/linkedin.svg" alt="LinkedIn" class="social-icon">
 </a>
 
-<a href="https://twitter.com/johnmcseb" target="_blank">
-  <img src="/img/icons/twitter.svg" width="18" style="vertical-align:middle; margin-right:8px;">
-  Twitter — @johnmcseb
+<a href="https://twitter.com/johnmcseb" target="_blank" rel="noopener">
+  <img src="/img/icons/twitter.svg" alt="Twitter" class="social-icon">
+</a>
+
+<a href="https://bsky.app/profile/johnseb.bsky.social" target="_blank" rel="noopener">
+  <img src="/img/icons/bluesky.svg" alt="Bluesky" class="social-icon">
 </a>
 
 </div>
