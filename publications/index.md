@@ -86,9 +86,12 @@ permalink: /publications/
 
       pubs.forEach(p => {
         let liHTML = `<p>
-          ${process(p.authors)} ${renderTitle(p)} ${p.journal}
+          ${process(p.authors)}.
+          ${renderTitle(p)}.
+          ${p.journal}
           ${renderNotes(p)}
         </p>`;
+
 
         const li = document.createElement('li');
         li.innerHTML = liHTML;

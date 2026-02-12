@@ -14,9 +14,9 @@ permalink: /research/
 	</ul>
 </nav>
 
-# Research
-
-My work sits at the intersection of **fluid mechanics**, **soft matter**, and **biophysical transport**, with a focus on how **geometry across scales** governs physical behavior.
-
+### Gallery of recent projects
 
 Form and function through toy problems and actual toys.
+
+
+### Nanofluidics
