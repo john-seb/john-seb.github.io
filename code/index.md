@@ -1,19 +1,21 @@
 ---
 layout: default
-title: John Sebastian | code
+title: John Sebastian | research
+permalink: /code/
 ---
+
 <nav>
 	<ul>
 		<li><a href="/about">about</a></li>
-		<li><a href="/research">research</a></li>
+		<li><a id="research" class="active" href="/research">research</a></li>
 		<li><a href="/publications">publications</a></li>
-		<li><a id="code" class="active" href="/">code</a></li>
+		<li><a href="/code">code</a></li>
 		<li><a href="/writing">writing</a></li>
 		<li><a href="/cv">cv</a></li>
 		<li><a href="/contact">contact</a></li>
 	</ul>
 </nav>
 
-<div class="code">
-	<p> Under construction <p>
-</div>
+# Code
+
+Geometric flow solver - upload pending.
