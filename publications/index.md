@@ -9,7 +9,7 @@ permalink: /publications/
 		<li><a href="/research">research</a></li>
 		<li><a id="publications" class="active" href="/publications">publications</a></li>
 		<li><a href="/writing">notes/talks</a></li>
-		<li><a href="/contact/">contact</a></li>
+		<!-- <li><a href="/contact/">contact</a></li> -->
 	</ul>
 </nav>
 
@@ -26,7 +26,7 @@ permalink: /publications/
 <ol reversed style="list-style-type:none; padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;">
 	<li>
 		<p>
-			<strong>Sebastian J</strong>, Stone HA, Jensen KH.
+			<strong>J Sebastian</strong>, HA Stone, KH Jensen.
 			Electrokinetic constaints on intercellular signalling in plants.
 		</p>
 	</li>
