@@ -1,0 +1,21 @@
+- id: thinfilm
+  title: "Traversing a Thin Lubricant Film in Finite Time"
+  authors:
+    - "John Sebastian"
+    - "Coauthor Name"
+  year: 2024
+  venue: "Journal Name"
+  type: journal
+  doi: "10.xxxx/xxxxx"
+  url: "https://example.com/paper"
+  notes: "Optional: equal contribution, etc."
+
+- id: nanofluidics_circuit
+  title: "Electrical-Circuit Models for Nanofluidic Transport"
+  authors:
+    - "John Sebastian"
+  year: 2023
+  venue: "Conference/Journal"
+  type: preprint
+  arxiv: "2301.01234"
+  url: "https://arxiv.org/abs/2301.01234"
