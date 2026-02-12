@@ -13,6 +13,8 @@ permalink: /publications/
 	</ul>
 </nav>
 
+# Publications
+
 <div class="publications">
 
 <h2><strong>Published manuscripts</strong></h2>
@@ -33,12 +35,11 @@ permalink: /publications/
 
 <h2><strong>Manuscripts in preparation</strong></h2>
 <ol reversed style="list-style-type:none; padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;">
-	<li><p><strong>Lyulina AS</strong>, Good BH. Genetic diversity under nonequilibrium demography.</p></li>
 	<li>
 		<p>
-			<strong>Sebastian J*</strong>, Stone HA, Jensen KH.
+			<strong>Sebastian J</strong>, Stone HA, Jensen KH.
 			Electrokinetic constaints on intercellular signalling in plants.
-			<a class="note-link" href="https://github.com/alyulina/metastatic-phenotypes" target="_blank" rel="noopener">url</a>
+			<!-- <a class="note-link" href="https://github.com/alyulina/metastatic-phenotypes" target="_blank" rel="noopener">url</a> -->
 		</p>
 	</li>
 </ol>
@@ -108,9 +109,9 @@ permalink: /publications/
 
 
 
-# Publications
 
-{% assign pubs = site.data.publications | sort: "year" | reverse %}
+
+<!-- {% assign pubs = site.data.publications | sort: "year" | reverse %}
 
 {% for p in pubs %}
 ### {{ p.title }}
@@ -120,4 +121,4 @@ permalink: /publications/
 {% if p.arxiv %} arXiv: {{ p.arxiv }}{% endif %}
 {% if p.url %} [Link]({{ p.url }}){% endif %}
 
-{% endfor %}
+{% endfor %} -->

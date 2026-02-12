@@ -1,49 +1,261 @@
-@media only screen and (min-width: 1025px) { body { margin: 60px auto; width: 800px; overflow: visible !important;} }
-@media only screen and (max-width: 1024px) { body { margin: 60px 60px; width: 405px; transform: scale(1.8); transform-origin: 0 0; -webkit-text-size-adjust: 100%; overflow: visible !important; } }
+/* =========================
+   Layout / responsive sizing
+   ========================= */
 
-nav ul { font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; margin-top: 0px; margin-bottom: 30px; }
-nav ul li { display: inline; margin-right: 20px; }
-
-a { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #261831; }
-a:hover, #about.active, #research.active, #publications.active, #contact.active { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #423f3e; }
-
-h1 { font-size: 40px; font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; margin-bottom: 10px; overflow: visible !important;}
-/* p { font-size: 20px; line-height: 1.4em; font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; color: #333; margin-bottom: 10px; margin-top: 0px; overflow: visible !important; } */
-
-h2 { font-size: 20px; line-height: 1em; font-weight: bold; font-family:'Albra', 'Tiempos', 'Times New Roman', 'Serif'; color: #333; margin-bottom: 6px; margin-top: 0px; overflow: visible !important; }
-p { font-size: 18px; line-height: 1.4em; font-family:'Avenir', 'Helvetica', 'Arial', 'Sans-Serif'; color: #333; margin-bottom: 1em; margin-top: 0px; overflow: visible !important; }
-sup { vertical-align: top; position: relative; top: -0.25em; }
-
-ol { font-size: 18px; font-family:'Avenir', 'Helvetica', 'Arial', 'Sans-Serif'; color: #333; margin-bottom: 6px; margin-top: 0px; overflow: visible !important; }
-ol p { font-size: 18px; line-height: 1.4em; font-family:'Avenir', 'Helvetica', 'Arial', 'Sans-Serif'; color: #333; margin-bottom: 6px; margin-top: 0px; overflow: visible !important; }
-
-.drop-cap::first-letter { font-size: 3em; font-family:'Albra', 'Tiempos', 'Times New Roman', 'Serif'; float: left; margin-right: 8px; margin-bottom: -0.2em; margin-top: 0; line-height: 1; }
-code { font-family: 'Courier New', Courier, monospace; font-style: normal; background-color: #f4f4f4; color: #333; padding: 1px 2px; border-radius: 3px; font-size: 0.9em; vertical-align: 0.05em; }
-/*.pub-note { font-size: 1em; font-family: 'Albra', 'Tiempos', 'Times New Roman', 'Serif'; font-style: italic; padding-left:2em; }*/
-.note-link { background-color: #f4f4f4; color: #a9a9a9; padding: 1px 2px; border-radius: 3px; font-size: 0.9em; vertical-align: 0.05em; text-decoration: none; margin-left: 0.5em; }
-.note-link:hover { text-decoration: none; background-color: #fef2f1; color: #16416f; }
-
-
-hr { border: none; height: 1px; color: #333; background-color: #333; }
-.footnote { font-size: 0.95em; margin-bottom: 1.4em; }
-
-.github-link p { color: #c1c1c1; font-size: 0.95em; }
-.github-link a { color: #c1c1c1; font-size: 0.95em; font-family: 'Courier New', Courier, monospace; }
-/* .github-link a:hover { color: #fa8072; font-size: 0.95em; font-family: 'Courier New', Courier, monospace; } */
-/* .github-link span { cursor: url("https://raw.githubusercontent.com/alyulina/alyulina.github.io/master/img/cursor_pink.png"), auto !important; } */
-
-.figure-container { display: flex; flex-direction: column; align-items: center; gap: 1em; margin-bottom: 1.4em; text-align: left; }
-.figure-container img { width: 100%; max-width: 480px; height: auto; }
-.legend { font-size: 0.95em; max-width: 480px; }
-
-@media screen and (min-width: 1024px) {
-    .figure-container { flex-direction: row; justify-content: flex-start; align-items: flex-start; }
-    .figure-container .figure { flex: 1; text-align: left; }
-    .figure-container .legend { flex: 1; max-width: 400px; }
-    .legend { margin-top: 1em }
+@media only screen and (min-width: 1025px) {
+  body {
+    margin: 60px auto;
+    width: 800px;
+    overflow: visible !important;
+  }
 }
 
-a.footer { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #ffffff; }
-a.footer:hover { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #fab7af; }
+@media only screen and (max-width: 1024px) {
+  body {
+    margin: 60px 60px;
+    width: 405px;
+    transform: scale(1.8);
+    transform-origin: 0 0;
+    -webkit-text-size-adjust: 100%;
+    overflow: visible !important;
+  }
+}
 
+/* =========================
+   Global typography + colors
+   ========================= */
 
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333333; /* default dark grey text */
+}
+
+/* Links */
+a {
+  font-size: 20px;
+  line-height: 1.4em;
+  text-decoration: none;
+  color: #333333; /* default dark grey */
+}
+
+a:hover,
+#about.active,
+#research.active,
+#publications.active,
+#contact.active {
+  color: #16416f; /* dark blue on hover + active nav item */
+}
+
+/* Headings */
+h1 {
+  font-size: 40px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-bottom: 10px;
+  overflow: visible !important;
+}
+
+h2 {
+  font-size: 22px;
+  line-height: 1.2em;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333333;
+  margin-bottom: 8px;
+  margin-top: 0px;
+  overflow: visible !important;
+}
+
+/* Paragraphs */
+p {
+  font-size: 18px;
+  line-height: 1.5em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333333;
+  margin-bottom: 1em;
+  margin-top: 0px;
+  overflow: visible !important;
+}
+
+/* Superscripts */
+sup {
+  vertical-align: top;
+  position: relative;
+  top: -0.25em;
+}
+
+/* Ordered lists */
+ol {
+  font-size: 18px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333333;
+  margin-bottom: 6px;
+  margin-top: 0px;
+  overflow: visible !important;
+}
+
+ol p {
+  font-size: 18px;
+  line-height: 1.5em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333333;
+  margin-bottom: 6px;
+  margin-top: 0px;
+  overflow: visible !important;
+}
+
+/* Drop cap */
+.drop-cap::first-letter {
+  font-size: 3em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  float: left;
+  margin-right: 8px;
+  margin-bottom: -0.2em;
+  margin-top: 0;
+  line-height: 1;
+}
+
+/* Inline code */
+code {
+  font-family: "Courier New", Courier, monospace;
+  font-style: normal;
+  background-color: #f4f4f4;
+  color: #333333;
+  padding: 1px 2px;
+  border-radius: 3px;
+  font-size: 0.9em;
+  vertical-align: 0.05em;
+}
+
+/* =========================
+   Navigation
+   ========================= */
+
+nav ul {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 0px;
+  list-style: none;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+/* =========================
+   Publication / note links
+   ========================= */
+
+.note-link {
+  background-color: #f4f4f4;
+  color: #333333;
+  padding: 1px 4px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  vertical-align: 0.05em;
+  text-decoration: none;
+  margin-left: 0.5em;
+}
+
+.note-link:hover {
+  text-decoration: none;
+  background-color: #fef2f1;
+  color: #16416f;
+}
+
+/* =========================
+   Rules / footnotes
+   ========================= */
+
+hr {
+  border: none;
+  height: 1px;
+  color: #333333;
+  background-color: #333333;
+}
+
+.footnote {
+  font-size: 0.95em;
+  margin-bottom: 1.4em;
+}
+
+/* =========================
+   GitHub link block
+   ========================= */
+
+.github-link p {
+  color: #777777;
+  font-size: 0.95em;
+}
+
+.github-link a {
+  color: #777777;
+  font-size: 0.95em;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.github-link a:hover {
+  color: #16416f;
+}
+
+/* =========================
+   Figures
+   ========================= */
+
+.figure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 1.4em;
+  text-align: left;
+}
+
+.figure-container img {
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+}
+
+.legend {
+  font-size: 0.95em;
+  max-width: 480px;
+}
+
+@media screen and (min-width: 1024px) {
+  .figure-container {
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .figure-container .figure {
+    flex: 1;
+    text-align: left;
+  }
+
+  .figure-container .legend {
+    flex: 1;
+    max-width: 400px;
+  }
+
+  .legend {
+    margin-top: 1em;
+  }
+}
+
+/* =========================
+   Footer links (if used)
+   ========================= */
+
+a.footer {
+  font-size: 20px;
+  line-height: 1.4em;
+  text-decoration: none;
+  color: #333333;
+}
+
+a.footer:hover {
+  color: #16416f;
+}
