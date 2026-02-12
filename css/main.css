@@ -26,7 +26,7 @@
    ========================= */
 
 .site-title {
-  font-size: 32px;   /* reduced from 40px */
+  font-size: 28px;   /* reduced from 40px */
   margin-bottom: 10px;
 }
 
@@ -38,7 +38,7 @@ body {
 
 /* Links */
 a {
-  font-size: 20px;
+  font-size:14px;
   line-height: 1.4em;
   text-decoration: none;
   color: #138088; /* default dark grey */
@@ -54,14 +54,14 @@ a:hover,
 
 /* Headings */
 h1 {
-  font-size: 36px;
+  font-size: 24px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 10px;
   overflow: visible !important;
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.2em;
   font-weight: bold;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -73,7 +73,7 @@ h2 {
 
 /* Paragraphs */
 p {
-  font-size: 18px;
+  font-size: 12px;
   line-height: 1.5em;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333;
@@ -91,7 +91,7 @@ sup {
 
 /* Ordered lists */
 ol {
-  font-size: 18px;
+  font-size: 12px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333;
   margin-bottom: 6px;
@@ -100,7 +100,7 @@ ol {
 }
 
 ol p {
-  font-size: 18px;
+  font-size: 12px;
   line-height: 1.5em;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333;
@@ -278,9 +278,9 @@ a.footer:hover {
 }
 
 .social-icon {
-  width: 56px;
-  height: 56px;
-  opacity: 0.8;
+  width: 48px;
+  height: 48px;
+  opacity: 0.5;
   transition: opacity 0.2s ease, transform 0.15s ease;
 }
 
