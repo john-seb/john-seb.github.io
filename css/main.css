@@ -43,7 +43,7 @@ a:hover,
 #research.active,
 #publications.active,
 #contact.active {
-  color: #16416f; /* dark blue on hover + active nav item */
+  color: #458bd6; /* dark blue on hover + active nav item */
 }
 
 /* Headings */
@@ -149,7 +149,7 @@ nav ul li {
 
 .note-link {
   background-color: #f4f4f4;
-  color: #333333;
+  color: #4035b9;
   padding: 1px 4px;
   border-radius: 4px;
   font-size: 0.9em;
@@ -161,7 +161,7 @@ nav ul li {
 .note-link:hover {
   text-decoration: none;
   background-color: #fef2f1;
-  color: #16416f;
+  color: #367dc9;
 }
 
 /* =========================
