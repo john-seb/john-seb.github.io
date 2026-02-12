@@ -65,7 +65,7 @@ Updates and manuscripts in preparation will be added here.
 
 
 
-<!-- {% assign pubs = site.data.publications | sort: "year" | reverse %}
+{% assign pubs = site.data.publications | sort: "year" | reverse %}
 
 {% for p in pubs %}
 ### {{ p.title }}
@@ -75,4 +75,4 @@ Updates and manuscripts in preparation will be added here.
 {% if p.arxiv %} arXiv: {{ p.arxiv }}{% endif %}
 {% if p.url %} [Link]({{ p.url }}){% endif %}
 
-{% endfor %} -->
+{% endfor %}
