@@ -13,11 +13,11 @@ permalink: /publications/
 	</ul>
 </nav>
 
-# Publications
+<!-- # Publications -->
 
 <div class="publications">
 
-<h2><strong>Published manuscripts</strong></h2>
+<h2><strong>Publications/ In press</strong></h2>
 <ol id="pubList" reversed style="padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;"></ol>
 <br>
 
