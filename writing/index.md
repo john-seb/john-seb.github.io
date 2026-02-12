@@ -15,4 +15,4 @@ permalink: /writing/
 
 # Notes/Talks
 
-coming soon.
+TBA

@@ -5,7 +5,7 @@ permalink: /notes/
 ---
 <nav>
 	<ul>
-		<li><a href="/about">about</a></li>
+		<li><a href="/">about</a></li>
 		<li><a id="research" class="active" href="/research">research</a></li>
 		<li><a href="/publications">publications</a></li>
 		<li><a href="/writing">notes/talks</a></li>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: John Sebastian | contact
-permalink: /contact/
+permalink: /
 ---
 
 <nav>
