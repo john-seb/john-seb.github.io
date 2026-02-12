@@ -9,7 +9,7 @@ permalink: /publications/
 		<li><a href="/research">research</a></li>
 		<li><a id="publications" class="active" href="/publications">publications</a></li>
 		<li><a href="/writing">notes/talks</a></li>
-		<li><a href="/contact">contact</a></li>
+		<li><a href="/contact/">contact</a></li>
 	</ul>
 </nav>
 
@@ -86,7 +86,7 @@ permalink: /publications/
 
       pubs.forEach(p => {
         let liHTML = `<p>
-          ${process(p.authors)}
+          ${process(p.authors)}<br>
           ${renderTitle(p)}
           ${p.journal}
           ${renderNotes(p)}

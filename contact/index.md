@@ -1,7 +1,7 @@
 ---
 layout: default
 title: John Sebastian | contact
-permalink: /
+permalink: /contact/
 ---
 
 <nav>
@@ -10,7 +10,7 @@ permalink: /
 		<li><a href="/research">research</a></li>
 		<li><a href="/publications">publications</a></li>
 		<li><a href="/writing">notes/talks</a></li>
-		<li><a id="contact" class="active" href="/contact">contact</a></li>
+		<li><a id="contact" class="active" href="/contact/">contact</a></li>
 	</ul>
 </nav>
 
