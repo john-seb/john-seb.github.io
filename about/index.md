@@ -27,20 +27,20 @@ $$-\grad P + \grad ^2 u$$
 
 <div class="social-row">
 
-<a href="https://github.com/john-seb" target="_blank" rel="noopener">
-  <img src="/img/icons/github.svg" alt="GitHub" class="social-icon">
-</a>
+<!-- <a href="https://github.com/john-seb" target="_blank" rel="noopener">
+  <img src="/img/icons/github.svg" width="18" alt="GitHub" class="social-icon">
+</a> -->
 
 <a href="https://www.linkedin.com/in/john-sebastian" target="_blank" rel="noopener">
-  <img src="/img/icons/linkedin.svg" alt="LinkedIn" class="social-icon">
+  <img src="/img/icons/linkedin.svg" width="18" alt="LinkedIn" class="social-icon">
 </a>
 
 <a href="https://twitter.com/johnmcseb" target="_blank" rel="noopener">
-  <img src="/img/icons/twitter.svg" alt="Twitter" class="social-icon">
+  <img src="/img/icons/twitter.svg" width="18" alt="Twitter" class="social-icon">
 </a>
 
 <a href="https://bsky.app/profile/johnseb.bsky.social" target="_blank" rel="noopener">
-  <img src="/img/icons/bluesky.svg" alt="Bluesky" class="social-icon">
+  <img src="/img/icons/bluesky.svg" width="18" alt="Bluesky" class="social-icon">
 </a>
 
 </div>
