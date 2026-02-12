@@ -1,7 +1,7 @@
 ---
 layout: default
 title: John Sebastian | research
-permalink: /research/
+permalink: /about/
 ---
 
 <nav>
