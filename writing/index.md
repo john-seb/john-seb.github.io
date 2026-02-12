@@ -1,6 +1,7 @@
 ---
 layout: default
-title: John Sebastian | contact
+title: John Sebastian| writing
+permalink: /writing/
 ---
 <nav>
 	<ul>
@@ -8,12 +9,11 @@ title: John Sebastian | contact
 		<li><a href="/research">research</a></li>
 		<li><a href="/publications">publications</a></li>
 		<li><a href="/code">code</a></li>
-		<li><a href="/writing">writing</a></li>
+		<li><a id="writing" class="active" href="/writing">writing</a></li>
 		<li><a href="/cv">cv</a></li>
-		<li><a id="contact" class="active" href="/contact">contact</a></li>
+		<li><a href="/contact">contact</a></li>
 	</ul>
-</nav>
-	<div class="contact">
-		<p> </p>
 
-	</div>
+# Writing
+
+under construction

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: John Sebastian | publications
+permalink: /publications/
 ---
 <nav>
 	<ul>
