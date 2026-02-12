@@ -91,7 +91,7 @@ sup {
 
 /* Ordered lists */
 ol {
-  font-size: 12px;
+  font-size: 8px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333;
   margin-bottom: 6px;
@@ -100,7 +100,7 @@ ol {
 }
 
 ol p {
-  font-size: 12px;
+  font-size: 8px;
   line-height: 1.5em;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333;
@@ -307,16 +307,32 @@ a.footer:hover {
   margin-top: 18px;
 }
 
+/* Default card */
 .note-card {
   display: block;
   text-decoration: none;
   color: inherit;
 }
 
+/* Square cards */
+.note-card.square .note-thumb {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+/* Wide cards (full row) */
+.note-card.wide {
+  grid-column: 1 / -1;
+}
+
+.note-card.wide .note-thumb {
+  aspect-ratio: 16 / 6;
+  object-fit: cover;
+}
+
+/* Standard thumbnail fallback */
 .note-thumb {
   width: 100%;
-  height: 160px;
-  object-fit: cover;
   border-radius: 10px;
   border: 1px solid rgba(0,0,0,0.10);
 }
@@ -328,14 +344,14 @@ a.footer:hover {
 .note-title {
   font-size: 18px;
   font-weight: 600;
-  line-height: 1.25em;
 }
 
 .note-sub {
-  margin-top: 4px;
   font-size: 15px;
   color: #555;
+  margin-top: 4px;
 }
+
 
 .note-meta {
   margin-top: 6px;
