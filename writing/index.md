@@ -1,6 +1,6 @@
 ---
 layout: default
-title: John Sebastian| writing
+title: John Sebastian| notes
 permalink: /writing/
 ---
 <nav>
@@ -13,6 +13,6 @@ permalink: /writing/
 	</ul>
 </nav>
 
-# Writing
+# Notes/Talks
 
 under construction

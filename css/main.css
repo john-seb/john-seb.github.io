@@ -21,7 +21,7 @@ ol p { font-size: 18px; line-height: 1.4em; font-family:'Avenir', 'Helvetica', '
 code { font-family: 'Courier New', Courier, monospace; font-style: normal; background-color: #f4f4f4; color: #333; padding: 1px 2px; border-radius: 3px; font-size: 0.9em; vertical-align: 0.05em; }
 /*.pub-note { font-size: 1em; font-family: 'Albra', 'Tiempos', 'Times New Roman', 'Serif'; font-style: italic; padding-left:2em; }*/
 .note-link { background-color: #f4f4f4; color: #a9a9a9; padding: 1px 2px; border-radius: 3px; font-size: 0.9em; vertical-align: 0.05em; text-decoration: none; margin-left: 0.5em; }
-.note-link:hover { text-decoration: none; background-color: #fef2f1; color: #382a28; }
+.note-link:hover { text-decoration: none; background-color: #fef2f1; color: #16416f; }
 
 
 hr { border: none; height: 1px; color: #333; background-color: #333; }
