@@ -13,6 +13,18 @@ permalink: /writing/
 	</ul>
 </nav>
 
-# Notes/Talks
+### Talks
 
-under construction
+<div class="notes-grid">
+{% assign items = site.notes | sort: "date" | reverse %}
+{% for n in items %}
+  <a class="note-card" href="{{ n.url | relative_url }}">
+    <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
+    <div class="note-caption">
+      <div class="note-title">{{ n.title }}</div>
+      {% if n.caption %}<div class="note-sub">{{ n.caption }}</div>{% endif %}
+      {% if n.date %}<div class="note-meta">{{ n.date | date: "%Y-%m-%d" }}</div>{% endif %}
+    </div>
+  </a>
+{% endfor %}
+</div>

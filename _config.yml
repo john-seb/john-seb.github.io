@@ -24,3 +24,9 @@ footer-links:
 url: https:/john-mech-sebastian.github.io
 markdown: kramdown
 include: [".well-known"]
+
+
+collections:
+  notes:
+    output: true
+    permalink: /writing/:name/

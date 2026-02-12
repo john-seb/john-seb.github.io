@@ -19,4 +19,8 @@ permalink: /research/
 Form and function through toy problems and actual toys.
 
 
-### Nanofluidics
+### Areas of Interest
++ Fluid Mechanics
++ Applied Mathematics
++ Nano, Micro, Bio Fluidics
++ Plant Biomechanics
