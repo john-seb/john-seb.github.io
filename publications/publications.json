@@ -1,34 +1,35 @@
 [
   {
-    "authors": "Karageorgi M, Lyulina AS, Bitter MC, Lappo E, Greenblum S, Mouza ZK, Tran CT, Huynh AV, Oken H, Schmidt P*, Petrov DA*.",
-    "title": "Beneficial reversal of dominance maintains a large-effect resistance polymorphism under fluctuating insecticide selection.",
-    "journal": "<em>Nature Ecology and Evolution</em> 9, 2145–2160 (2025).",
-    "text": "https://doi.org/10.1038/s41559-025-02853-x",
-    "code": "https://github.com/mkarageorgi/Beneficial_Dominance_Reversal",
-    "thread": "https://bsky.app/profile/alyulina.github.io/post/3m4ykckyud222",
+    "authors": "J Sebastian, KH Jensen",
+    "title": "The geometry of Nature’s stingers is universal due to stochastic mechanical wear.",
+    "journal": "<em>PNAS</em> (2026).",
+    "www": "",
+    "code": "",
+    "thread": "",
     "cover": "",
-    "commentary": "",
-    "news": "https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research"
-  },
-  {
-    "authors": "Lyulina AS*, Liu Z*, Good BH.",
-    "title": "Linkage equilibrium between rare mutations.",
-    "journal": "<em>Genetics</em> 228, iyae145 (2024).",
-    "text": "https://doi.org/10.1093/genetics/iyae145",
-    "code": "https://github.com/alyulina/linkage-equilibrium",
-    "thread": "https://bsky.app/profile/alyulina.github.io/post/3kqiyc6cd2j2t",
-    "cover": "https://academic.oup.com/genetics/issue/228/3",
     "commentary": "",
     "news": ""
   },
   {
-    "authors": "Gurtovenko AA, Lyulina AS.",
-    "title": "Electroporation of asymmetric phospholipid membranes.",
-    "journal": "The Journal of Physical Chemistry B 118, 9909–9918 (2014).",
-    "text": "https://doi.org/10.1021/jp5028355",
+    "authors": "J Sebastian, AL Schødt, KH Jensen",
+    "title": "Experiments on a sphere settling towards a boundary in a viscous liquid under the influence of a magnetic force.",
+    "journal": "<em>Journal of Fluid Mechanics</em> 1024:A12 (2025).",
+    "www": "https://doi.org/10.1017/jfm.2025.10864",
+    "arxiv":"https://arxiv.org/abs/2408.02443",
     "code": "",
     "thread": "",
-    "cover": "https://pubs.acs.org/toc/jpcbfk/118/33",
+    "cover": "",
+    "commentary": "",
+    "news": ""
+  },
+  {
+    "authors": "J Sebastian, Y Green",
+    "title": "Electrical Circuit Modelling of Nanofluidic Systems",
+    "journal": "<em>Adv. Phys. Res.</em> 2: 2370020 (2023).",
+    "text": "https://doi.org/10.1002/apxr.202370020",
+    "code": "",
+    "thread": "",
+    "cover": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/apxr.202370020",
     "commentary": "",
     "news": ""
   }

@@ -190,13 +190,13 @@ hr {
 }
 
 .github-link a {
-  color: #777777;
+  color: #322e2e;
   font-size: 0.95em;
   font-family: "Courier New", Courier, monospace;
 }
 
 .github-link a:hover {
-  color: #16416f;
+  color: #499292;
 }
 
 /* =========================
@@ -253,11 +253,11 @@ a.footer {
   font-size: 20px;
   line-height: 1.4em;
   text-decoration: none;
-  color: #333333;
+  color: #ffffff;
 }
 
 a.footer:hover {
-  color: #16416f;
+  color: #e2e5e7;
 }
 
 

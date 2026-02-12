@@ -49,7 +49,7 @@ permalink: /publications/
 <script>
   // Highlight my name
   function boldName(text) {
-    return text.replace(/Lyulina AS/g, '<strong>Lyulina AS</strong>');
+    return text.replace(/J Sebastian/g, '<strong>J Sebastian</strong>');
   }
 
   // Replace * with superscript

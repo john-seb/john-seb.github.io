@@ -26,12 +26,13 @@ permalink: /contact/
   <img src="/img/icons/linkedin.svg" width="18" alt="LinkedIn" class="social-icon">
 </a>
 
-<a href="https://twitter.com/johnmcseb" target="_blank" rel="noopener">
-  <img src="/img/icons/twitter.svg" width="18" alt="Twitter" class="social-icon">
-</a>
 
 <a href="https://bsky.app/profile/johnseb.bsky.social" target="_blank" rel="noopener">
   <img src="/img/icons/bluesky.svg" width="18" alt="Bluesky" class="social-icon">
+</a>
+
+<a href="https://twitter.com/johnmcseb" target="_blank" rel="noopener">
+  <img src="/img/icons/twitter.svg" width="18" alt="Twitter" class="social-icon">
 </a>
 
 </div>
