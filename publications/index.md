@@ -21,17 +21,6 @@ permalink: /publications/
 <ol id="pubList" reversed style="padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;"></ol>
 <br>
 
-<!-- <h2><strong>Manuscripts under review</strong></h2>
-<ol reversed style="list-style-type:none; padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;">
-	<li>
-		<p>
-			Konczal M, <strong>Lyulina AS</strong>, Zapata L, Camara F, Camara F, ...
-			Population growth facilitated the retention of deleterious variance in the critically endangered spoon-billed sandpiper.
-			<a class="note-link" href="https://github.com/alyulina/spoon-billed-sandpiper" target="_blank" rel="noopener">code</a>
-		</p>
-	</li>
-</ol>
-<br> -->
 
 <h2><strong>Manuscripts in preparation</strong></h2>
 <ol reversed style="list-style-type:none; padding-left:1.2em; margin-bottom: 1.2em; margin-top: 1.2em;">
@@ -39,11 +28,9 @@ permalink: /publications/
 		<p>
 			<strong>Sebastian J</strong>, Stone HA, Jensen KH.
 			Electrokinetic constaints on intercellular signalling in plants.
-			<!-- <a class="note-link" href="https://github.com/alyulina/metastatic-phenotypes" target="_blank" rel="noopener">url</a> -->
 		</p>
 	</li>
 </ol>
-
 
 
 <script>
@@ -62,18 +49,28 @@ permalink: /publications/
     return replaceAsterisk(boldName(text));
   }
 
-  // Italicize everything before first number in journal string
-  function italicizeJournal(journal) {
-    return journal.replace(/^(.+?)\s+(?=\d)/, '<em>$1</em> ');
+  // Choose best URL to link the title to
+  function titleHref(p) {
+    return p.text || p.arxiv || p.cover || "";
   }
 
-  // Render code/text/thread/cover/commentary/news links inline
+  // Link the title (if we have a URL)
+  function renderTitle(p) {
+    const t = process(p.title);
+    const href = titleHref(p);
+    if (!href) return t;
+    return `<a href="${href}" target="_blank" rel="noopener">${t}</a>`;
+  }
+
+  // Render pills for www / arXiv / cover
   function renderNotes(p) {
     let notesHTML = '';
-    if (p.text) notesHTML += `<a class="note-link" href="${p.text}" target="_blank" rel="noopener">text</a> `;
+    if (p.text)  notesHTML += `<a class="note-link" href="${p.text}" target="_blank" rel="noopener">www</a> `;
+    if (p.arxiv) notesHTML += `<a class="note-link" href="${p.arxiv}" target="_blank" rel="noopener">arXiv</a> `;
+    if (p.cover) notesHTML += `<a class="note-link" href="${p.cover}" target="_blank" rel="noopener">cover</a> `;
+    // keep these optional if you still use them
     if (p.code) notesHTML += `<a class="note-link" href="${p.code}" target="_blank" rel="noopener">code</a> `;
     if (p.thread) notesHTML += `<a class="note-link" href="${p.thread}" target="_blank" rel="noopener">thread</a> `;
-    if (p.cover) notesHTML += `<a class="note-link" href="${p.cover}" target="_blank" rel="noopener">cover</a> `;
     if (p.commentary) notesHTML += `<a class="note-link" href="${p.commentary}" target="_blank" rel="noopener">commentary</a> `;
     if (p.news) notesHTML += `<a class="note-link" href="${p.news}" target="_blank" rel="noopener">news</a>`;
     return notesHTML;
@@ -90,8 +87,8 @@ permalink: /publications/
       pubs.forEach(p => {
         let liHTML = `<p>
           ${process(p.authors)}
-          ${process(p.title)}
-          ${italicizeJournal(p.journal)}
+          ${renderTitle(p)}
+          ${p.journal}
           ${renderNotes(p)}
         </p>`;
 
@@ -102,6 +99,8 @@ permalink: /publications/
     })
     .catch(err => console.error("Error loading publications.json:", err));
 </script>
+
+
 
 </div>
 
