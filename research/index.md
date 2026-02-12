@@ -16,42 +16,20 @@ permalink: /research/
 	</ul>
 </nav>
 
-<div class="blurb">
-
 # Research
 
-My work lies at the intersection of **fluid mechanics**, **soft matter physics**, and **biophysical transport**, with a central focus on how *geometry across scales* governs physical behavior.
+My work sits at the intersection of **fluid mechanics**, **soft matter**, and **biophysical transport**, with a focus on how **geometry across scales** governs physical behavior.
 
-A recurring theme in my research is understanding how confinement, curvature, and structural complexity influence transport, force transmission, and system-level response — particularly in microscale and nanoscale systems.
+## Themes
 
----
+### Geometry-driven transport
+I study how confinement and surface structure change transport and forces, especially in micro/nanofluidic systems.
 
-## Geometry-driven transport
+### Thin-film hydrodynamics and interfaces
+Thin lubricant films can act as strong hydrodynamic barriers. I’m interested in the scaling laws and reduced models that predict when and how particles traverse such barriers.
 
-I study how surface structure and confinement alter transport phenomena in fluidic systems. This includes reduced-order modeling of nanofluidic systems using electrical-circuit analogies and scaling arguments to connect experiment and theory.
+### Frugal microfluidics and sensing
+I also like physics-first, fieldable device ideas—where constraints (cost, power, robustness) shape the design.
 
----
-
-## Thin-film hydrodynamics and interfacial mechanics
-
-Thin films act as hydrodynamic barriers where dissipation increases dramatically as film thickness decreases. Understanding how particles traverse these barriers informs problems in adhesion, lubrication, and interfacial transport.
-
----
-
-## Frugal microfluidics and sensing
-
-I am interested in physics-driven device design, especially for low-cost and field-deployable systems. One direction involves electrical impedance methods for detecting microplastics in inland water systems.
-
----
-
-## Broader objective
-
-Across these projects, my goal is to connect:
-
-- Geometry → Governing equations  
-- Governing equations → Reduced-order models  
-- Reduced-order models → Practical devices  
-
-By identifying how structure encodes physics, we can design simpler, more robust systems for sensing, transport control, and materials engineering.
-
-</div>
+## What I’m exploring now
+Broadly: **how geometry encodes physics**, and how to exploit that in both mechanistic models and simple devices.
