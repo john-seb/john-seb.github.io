@@ -4,8 +4,8 @@
 nav ul { font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; margin-top: 0px; margin-bottom: 30px; }
 nav ul li { display: inline; margin-right: 20px; }
 
-a { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #00AB8E; }
-a:hover, #about.active, #research.active, #publications.active, #contact.active { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #FD5500; }
+a { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #261831; }
+a:hover, #about.active, #research.active, #publications.active, #contact.active { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #423f3e; }
 
 h1 { font-size: 40px; font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; margin-bottom: 10px; overflow: visible !important;}
 /* p { font-size: 20px; line-height: 1.4em; font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif'; color: #333; margin-bottom: 10px; margin-top: 0px; overflow: visible !important; } */
@@ -47,31 +47,3 @@ a.footer { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #f
 a.footer:hover { font-size: 20px; line-height: 1.4em; text-decoration: none; color: #fab7af; }
 
 
-
-/* Notion-ish inline table for publications */
-.pub-table { margin-top: 16px; border: 1px solid rgba(0,0,0,0.08); border-radius: 10px; overflow: hidden; }
-.pub-header, .pub-row { display: grid; grid-template-columns: 1.6fr 1.2fr 0.7fr; column-gap: 16px; }
-.pub-header { padding: 10px 14px; font-size: 12px; letter-spacing: 0.02em; text-transform: uppercase; opacity: 0.65; border-bottom: 1px solid rgba(0,0,0,0.08); background: rgba(0,0,0,0.02); }
-.pub-row { padding: 12px 14px; border-bottom: 1px solid rgba(0,0,0,0.06); align-items: start; }
-.pub-row:last-child { border-bottom: 0; }
-
-.pub-paper { display: grid; grid-template-columns: 52px 1fr; gap: 12px; align-items: start; }
-.pub-thumb { width: 52px; height: 52px; object-fit: cover; border-radius: 8px; border: 1px solid rgba(0,0,0,0.08); }
-.pub-title { font-weight: 600; line-height: 1.25; }
-
-.pub-authors { opacity: 0.9; font-size: 0.95em; }
-.pub-venue { opacity: 0.7; font-size: 0.9em; margin-top: 2px; }
-
-.pub-tags { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
-.pub-tag { font-size: 12px; padding: 2px 8px; border-radius: 999px; border: 1px solid rgba(0,0,0,0.12); opacity: 0.85; }
-
-.pub-links { display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.95em; }
-.pub-links a { text-decoration: none; border-bottom: 1px solid rgba(0,0,0,0.25); }
-.pub-links a:hover { border-bottom-color: rgba(0,0,0,0.6); }
-
-/* Responsive: stack columns on small screens */
-@media (max-width: 720px) {
-  .pub-header { display: none; }
-  .pub-row { grid-template-columns: 1fr; row-gap: 10px; }
-  .pub-paper { grid-template-columns: 52px 1fr; }
-}

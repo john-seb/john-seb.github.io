@@ -8,7 +8,6 @@ permalink: /notes/
 		<li><a href="/about">about</a></li>
 		<li><a id="research" class="active" href="/research">research</a></li>
 		<li><a href="/publications">publications</a></li>
-		<li><a href="/code">code</a></li>
 		<li><a href="/writing">notes/talks</a></li>
 		<li><a href="/contact">contact</a></li>
 	</ul>
