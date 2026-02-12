@@ -16,3 +16,5 @@ permalink: /notes/
 </nav>
 
 # Notes
+
+Form and function through toy problems and actual toys.
