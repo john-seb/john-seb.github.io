@@ -4,7 +4,7 @@ title: "Tyres: The Science of Black Magic"
 date: 2020-08-09
 thumbnail: /repo/saetyre/femres.png
 caption: ""
-card_style: square
+card_style: wide
 ---
 
 <nav>

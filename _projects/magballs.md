@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Sphere settling near a wall under magnetic forcing"
-date: 2026-02-12
-thumbnail: /projects/magballs/thumbnail.png
-caption: "Short note on near-wall dynamics + a quick derivation."
-card_style: square
+title: "Traversing a thin lubricant film in finite time"
+date: 2025-10-02
+thumbnail: /projects/magballs/graphic.png
+caption: ""
+card_style: wide
 math: true
 draft: false
 ---
@@ -18,17 +18,14 @@ draft: false
 	</ul>
 </nav>
 
-## Summary
+
+<!-- ![Near-wall geometry](/projects/magballs/thumbnail.png) -->
+
+<img src="/projects/magballs/thumbnail.png" alt="JFM" style="width:200px;"/>
 
 A short note on a sphere settling toward a boundary in a viscous liquid, including intuition for the dominant balances and how a magnetic body force changes approach dynamics.
 
-### Figure
-
-![Near-wall geometry](/projects/magballs/thumbnail.png)
-
-## PDF (embedded)
-
-<iframe
+<!-- <iframe
   src="/projects/magballs/graphic.pdf"
   width="100%"
   height="900"
@@ -36,4 +33,4 @@ A short note on a sphere settling toward a boundary in a viscous liquid, includi
 </iframe>
 
 
-[Download the PDF?](/projects/magballs/graphic.pdf)
+[Download the PDF?](/projects/magballs/graphic.pdf) -->

@@ -4,7 +4,7 @@ title: "How to Speak by Patrick Winston"
 date: 2021-01-30
 thumbnail: /repo/generic.png
 caption: ""
-card_style: wide
+card_style: square
 ---
 
 <nav>

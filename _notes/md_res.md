@@ -4,7 +4,7 @@ title: "Markdown Resources"
 date: 2021-01-10
 thumbnail: /repo/generic.png
 caption: ""
-card_style: twidet
+card_style: square
 ---
 
 <nav>
