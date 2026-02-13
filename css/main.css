@@ -404,6 +404,23 @@ a.footer:hover {
   object-fit: cover;
 }
 
+
+/* Standard thumbnail fallback */
+.note-thumb {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.10);
+}
+
+.note-caption {
+  margin-top: 10px;
+}
+
+.note-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
 .note-sub {
   font-size: 15px;
   color: #555;
@@ -416,7 +433,6 @@ a.footer:hover {
   font-size: 13px;
   color: #777;
 }
-
 
 /* Text-only card */
 .note-card.text {
@@ -433,20 +449,4 @@ a.footer:hover {
 .note-card.text .note-sub {
   margin-top: 6px;
   color: #666;
-}
-
-/* Standard thumbnail fallback */
-.note-thumb {
-  width: 100%;
-  border-radius: 10px;
-  border: 1px solid rgba(0,0,0,0.10);
-}
-
-.note-caption {
-  margin-top: 10px;
-}
-
-.note-title {
-  font-size: 18px;
-  font-weight: 600;
 }
