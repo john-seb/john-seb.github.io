@@ -13,10 +13,11 @@ permalink: /writing/
 	</ul>
 </nav>
 
-### Talks
+
+## Articles/Notes
 
 <div class="notes-grid">
-{% assign items = site.talks | sort: "date" | reverse %}
+{% assign items = site.notes | sort: "date" | reverse %}
   {% if n.thumbnail %}
     <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
   {% endif %}
@@ -31,10 +32,12 @@ permalink: /writing/
 {% endfor %}
 </div>
 
-### Notes
+----
+
+## Talks
 
 <div class="notes-grid">
-{% assign items = site.notes | sort: "date" | reverse %}
+{% assign items = site.talks | sort: "date" | reverse %}
   {% if n.thumbnail %}
     <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
   {% endif %}
