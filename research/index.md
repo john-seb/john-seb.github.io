@@ -16,6 +16,7 @@ permalink: /research/
 Below is a gallery of recent projects.
 
 More at [Notes/Talks](/writing/).
+----
 
 <div class="notes-grid">
 {% assign items = site.projects | sort: "date" | reverse %}
