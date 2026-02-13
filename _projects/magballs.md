@@ -2,7 +2,7 @@
 layout: default
 title: "Traversing a thin lubricant film in finite time"
 date: 2025-10-02
-thumbnail: /projects/magballs/graphic.pdf
+thumbnail: /projects/magballs/graphic.png
 caption: ""
 card_style: wide
 math: true
