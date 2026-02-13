@@ -22,7 +22,7 @@ draft: false
 <div class="about-flex">
 
   <div class="about-image">
-    <img src="/projects/pointythings/featured.jpg" class="content-image">
+    <img src="/projects/pointythings/featured.png" class="content-image">
   </div>
 
   <div class="about-text">
