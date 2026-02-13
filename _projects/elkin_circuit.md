@@ -4,7 +4,7 @@ title: "Electrical Circuit Modelling of Nanofluidic Systems"
 date: 2023-10-02
 thumbnail: /projects/elkin_circuit/thumbnail.jpeg
 caption: ""
-card_style: wide
+card_style: square
 math: true
 draft: false
 ---
