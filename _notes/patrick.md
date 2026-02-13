@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "How to Speak by Patrick Winston"
+title: "Patrick Winston on Speaking"
 date: 2021-01-30
 thumbnail: /repo/generic.png
 caption: ""

@@ -14,6 +14,25 @@ permalink: /writing/
 </nav>
 
 ----
+# Articles/Notes
+
+<div class="notes-grid">
+{% assign items = site.notes | sort: "date" | reverse %}
+  {% if n.thumbnail %}
+    <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
+  {% endif %}
+{% for n in items %}
+  <a class="note-card {{ n.card_style }}" href="{{ n.url | relative_url }}">
+    <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
+    <div class="note-caption">
+      <div class="note-title">{{ n.title }}</div>
+      {% if n.caption %}<div class="note-sub">{{ n.caption }}</div>{% endif %}
+    </div>
+  </a>
+{% endfor %}
+</div>
+
+----
 # Talks
 
 <div class="notes-grid">
@@ -34,23 +53,4 @@ permalink: /writing/
 
 ----
 
-# Articles/Notes
-
-<div class="notes-grid">
-{% assign items = site.notes | sort: "date" | reverse %}
-  {% if n.thumbnail %}
-    <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
-  {% endif %}
-{% for n in items %}
-  <a class="note-card {{ n.card_style }}" href="{{ n.url | relative_url }}">
-    <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
-    <div class="note-caption">
-      <div class="note-title">{{ n.title }}</div>
-      {% if n.caption %}<div class="note-sub">{{ n.caption }}</div>{% endif %}
-    </div>
-  </a>
-{% endfor %}
-</div>
-
-----
 
