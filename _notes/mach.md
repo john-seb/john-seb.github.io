@@ -3,7 +3,7 @@ layout: default
 title: "Ernst Mach- Analysis of Sensations"
 date: 2021-12-15
 thumbnail: /notes/mach/featured.jpg
-caption: "Discussion on Ernst Mach's Analysis of Sensations, Chapter 4 at the [**History and Philosophy of Science Meeting**](https://in.bgu.ac.il/en/loeb/Pages/default.aspx), 15 December 2021."
+caption: ""
 card_style: square
 ---
 
@@ -20,6 +20,8 @@ card_style: square
 
 Ernst Mach, physicist and philosopher, addresses the fundamental problem of the truth of observations in his 1900 treatise L'Analyse des Sensations. Here we discuss his views on how a physical truth shall be identified from human observations and the influence of his ideas on modern science and philosophy.
 
+<hr>
+Discussion on Ernst Mach's Analysis of Sensations, Chapter 4 at the [**History and Philosophy of Science Meeting**](https://in.bgu.ac.il/en/loeb/Pages/default.aspx), 15 December 2021.
 
 <iframe
   src="/notes/mach/john_mach_online.pdf"
@@ -29,4 +31,4 @@ Ernst Mach, physicist and philosopher, addresses the fundamental problem of the 
 </iframe>
 
 
-[Download the PDF?](/notes/mach/john_mach_online.pdf)
+<!-- [Download the PDF?](/notes/mach/john_mach_online.pdf) -->
