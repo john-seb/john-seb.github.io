@@ -2,9 +2,9 @@
 layout: default
 title: "How to Speak by Patrick Winston"
 date: 2021-01-30
-thumbnail: 
+thumbnail: /repo/generic.png
 caption: ""
-card_style: text
+card_style: wide
 ---
 
 <nav>

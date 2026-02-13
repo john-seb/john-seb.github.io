@@ -2,9 +2,9 @@
 layout: default
 title: "Markdown Resources"
 date: 2021-01-10
-thumbnail: 
+thumbnail: /repo/generic.png
 caption: ""
-card_style: text
+card_style: twidet
 ---
 
 <nav>
