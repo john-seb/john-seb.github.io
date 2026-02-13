@@ -3,13 +3,6 @@ layout: default
 title: John Sebastian | research
 permalink: /research/
 ---
-
-
-Below is a gallery of recent projects.
-
-More at [Notes/Talks](/writing/).
-
-
 <nav>
 	<ul>
 		<li><a href="/">about</a></li>
@@ -20,7 +13,9 @@ More at [Notes/Talks](/writing/).
 	</ul>
 </nav>
 
+Below is a gallery of recent projects.
 
+More at [Notes/Talks](/writing/).
 
 <div class="notes-grid">
 {% assign items = site.projects | sort: "date" | reverse %}
