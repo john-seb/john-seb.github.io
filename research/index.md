@@ -4,6 +4,12 @@ title: John Sebastian | research
 permalink: /research/
 ---
 
+
+Below is a gallery of recent projects.
+
+More at [Notes/Talks](/writing/).
+
+
 <nav>
 	<ul>
 		<li><a href="/">about</a></li>
