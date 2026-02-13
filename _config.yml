@@ -33,4 +33,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+  talks:
+    output: true
+    permalink: /writing/:name/
+
 
