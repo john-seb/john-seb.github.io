@@ -24,7 +24,7 @@ draft: false
 <img src="/projects/microplastics/featured.png" class="content-image"/>
 
 Making a frugal device to detect the 99% of microplastics that go undetected in our waters;
-[Frugal science ](http://frugalscience.org/) group project supervised by Prof Manu Prakash.
+[Frugal science ](http://frugalscience.org/) group project.
 
 
 Link to project page:[Team FishEye](https://www.notion.so/Team-FishEye-a2dc826721a14dd88e1217f9154f4444)

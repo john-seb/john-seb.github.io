@@ -14,7 +14,7 @@ permalink: /writing/
 </nav>
 
 ----
-# Articles/Notes
+# Notes
 
 <div class="notes-grid">
 {% assign items = site.notes | sort: "date" | reverse %}
