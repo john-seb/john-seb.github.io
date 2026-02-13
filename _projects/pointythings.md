@@ -54,4 +54,4 @@ However, our research shows that these characteristic tip shapes arise from a si
 Our findings suggest that the consistent shape of these pointed tips across diverse forms is not the result of evolutionary selection but rather an inevitable consequence of random wear — a compelling example of how stochastic processes can sculpt the natural world into strikingly similar forms, reminding us that some coincidences are simply random.
 
 <img src="/projects/pointythings/gallery_soft_matter.png" class="content-image"/>
-[APS Gallery of Soft Matter 2025 | Poster]https://engage.aps.org/dsoft/gallery/gallery/mm25-gallery
+[APS Gallery of Soft Matter 2025 | Poster](https://engage.aps.org/dsoft/gallery/gallery/mm25-gallery)
