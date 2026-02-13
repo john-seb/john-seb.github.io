@@ -13,7 +13,7 @@ permalink: /research/
 	</ul>
 </nav>
 
-Below is a gallery of recent projects. A few older threads at [Notes/Talks](/writing/).
+Below is a gallery of recent projects. A few other threads at [Notes/Talks](/writing/).
 
 ----
 
