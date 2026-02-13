@@ -22,6 +22,6 @@ draft: false
 
 <img src="/projects/inversefoil/invfoil_summary.png" class="content-image"/>
 
-*(Bachelor thesis)*
+<!-- *(Bachelor thesis)* -->
 
-Supervisor: [Prof Ranjith S Kumar, Micro/nanofluidics Lab](https://www.linkedin.com/company/micro-nano-fluidics-research-laboratory/)
+<!-- Supervisor: [Prof Ranjith S Kumar, Micro/nanofluidics Lab](https://www.linkedin.com/company/micro-nano-fluidics-research-laboratory/) -->
