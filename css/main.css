@@ -404,6 +404,20 @@ a.footer:hover {
   object-fit: cover;
 }
 
+.note-sub {
+  font-size: 15px;
+  color: #555;
+  margin-top: 4px;
+}
+
+
+.note-meta {
+  margin-top: 6px;
+  font-size: 13px;
+  color: #777;
+}
+
+
 /* Text-only card */
 .note-card.text {
   padding: 18px;
@@ -435,17 +449,4 @@ a.footer:hover {
 .note-title {
   font-size: 18px;
   font-weight: 600;
-}
-
-.note-sub {
-  font-size: 15px;
-  color: #555;
-  margin-top: 4px;
-}
-
-
-.note-meta {
-  margin-top: 6px;
-  font-size: 13px;
-  color: #777;
 }

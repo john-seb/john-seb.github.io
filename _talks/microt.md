@@ -2,7 +2,7 @@
 layout: default
 title: "Film-Evaporation Microthruster for Cubesats"
 date: 2016-04-11
-thumbnail: /notes/microt/featured.jpg
+thumbnail: /repo/microt/featured.jpg
 caption: ""
 card_style: square
 ---
