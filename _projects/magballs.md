@@ -2,9 +2,9 @@
 layout: default
 title: "Traversing a thin lubricant film in finite time"
 date: 2025-10-02
-thumbnail: /projects/magballs/graphic.png
+thumbnail: /projects/magballs/featured.png
 caption: ""
-card_style: wide
+card_style: square
 math: true
 draft: false
 ---
@@ -19,7 +19,7 @@ draft: false
 </nav>
 
 
-<!-- ![Near-wall geometry](/projects/magballs/thumbnail.png) -->
+
 
 <div class="about-flex">
 
@@ -34,6 +34,7 @@ draft: false
 
 </div>
 
+![](/projects/magballs/graphic.png)
 
 Link to Journal of Fluid Mechanics (JFM) article:[DOI](https://doi.org/10.1017/jfm.2025.10864)
 
