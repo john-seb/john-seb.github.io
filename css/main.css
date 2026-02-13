@@ -35,7 +35,7 @@ a {
   font-size: 18px;
   line-height: 1.4em;
   text-decoration: none;
-  color: #0a3e7e; /* default dark grey */
+  color: #14acd2; /* default dark grey */
 }
 
 a:hover,
@@ -43,7 +43,7 @@ a:hover,
 #research.active,
 #publications.active,
 #contact.active {
-  color: #1d9aab; /* dark blue on hover + active nav item */
+  color: #573b68; /* dark blue on hover + active nav item */
 }
 
 /* Headings */
