@@ -2,7 +2,7 @@
 layout: default
 title: "Ernst Mach- Analysis of Sensations"
 date: 2021-12-15
-thumbnail: /notes/mach/featured.jpg
+thumbnail: /repo/mach/featured.jpg
 caption: ""
 card_style: square
 ---
@@ -24,7 +24,7 @@ Ernst Mach, physicist and philosopher, addresses the fundamental problem of the 
 Discussion on Ernst Mach's Analysis of Sensations, Chapter 4 at the [**History and Philosophy of Science Meeting**](https://in.bgu.ac.il/en/loeb/Pages/default.aspx), 15 December 2021.
 
 <iframe
-  src="/notes/mach/john_mach_online.pdf"
+  src="/repo/mach/john_mach_online.pdf"
   width="100%"
   height="900"
   style="border:1px solid rgba(0,0,0,0.12); border-radius:10px;">

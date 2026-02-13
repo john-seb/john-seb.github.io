@@ -22,7 +22,7 @@ Reaction Control systems for attitute control of small sattelites are discussed.
 A review of the state of the art in microthruster technology
 
 <iframe
-  src="/notes/microt/microt1.pdf"
+  src="/repo/microt/microt1.pdf"
   width="100%"
   height="900"
   style="border:1px solid rgba(0,0,0,0.12); border-radius:10px;">

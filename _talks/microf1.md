@@ -2,7 +2,7 @@
 layout: default
 title: "Microfluidics for the World"
 date: 2016-04-19
-thumbnail: /notes/microf1/featured.jpeg
+thumbnail: /repo/microf1/featured.jpeg
 caption: ""
 card_style: square
 ---
@@ -23,7 +23,7 @@ Present Around The World (PATW) Competition, 2016.
 IET PATW 2016
 
 <iframe
-  src="/notes/microf1/microf1.pdf"
+  src="/repo/microf1/microf1.pdf"
   width="100%"
   height="900"
   style="border:1px solid rgba(0,0,0,0.12); border-radius:10px;">

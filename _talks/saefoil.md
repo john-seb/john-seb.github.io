@@ -2,7 +2,7 @@
 layout: default
 title: "Lectures: SAE Short Course on Aero Design"
 date: 2017-04-02
-thumbnail: /notes/saefoil/featured.png
+thumbnail: /repo/saefoil/featured.png
 caption: ""
 card_style: square
 ---
@@ -31,7 +31,7 @@ An overview of the NACA families and their applications is given. The process of
 The session ends with a practical exercise. This is followed by a CAD and CFD workshop to analyse the foil.
 
 <iframe
-  src="/notes/saefoil/foil1.pdf"
+  src="/repo/saefoil/foil1.pdf"
   width="100%"
   height="900"
   style="border:1px solid rgba(0,0,0,0.12); border-radius:10px;">
@@ -47,7 +47,7 @@ The afternoon session is a *wind tunnel workshop*. A NACA 0012 foil is tested in
 Furthermore, a comprehensive timeline of the development of various experimental methods is introduced.
 
 <iframe
-  src="/notes/saefoil/foil2.pdf"
+  src="/repo/saefoil/foil2.pdf"
   width="100%"
   height="900"
   style="border:1px solid rgba(0,0,0,0.12); border-radius:10px;">

@@ -2,7 +2,7 @@
 layout: default
 title: "Tyres: The Science of Black Magic"
 date: 2020-08-09
-thumbnail: /notes/saetyre/femres.png
+thumbnail: /repo/saetyre/femres.png
 caption: ""
 card_style: square
 ---
@@ -19,12 +19,11 @@ card_style: square
 
 Published in the 2020 yearbook of SAE INDIA CET Chapter
 ---
-<div class=text-justify> 
 
-![***Page 1***](/notes/saetyre/page1.jpg)  
+
+![***Page 1***](/repo/saetyre/page1.jpg)  
 **** 
- ![***Page 2***](/notes/saetyre/page1.jpg) 
+![***Page 2***](/repo/saetyre/page1.jpg) 
  
-Read the web version instead: [Tyres: The Science of Black Magic](/notes/saetyre/fulldoc.html)
+Read more: [Tyres: The Science of Black Magic](/repo/saetyre/fulldoc.html)
 
-</div>
