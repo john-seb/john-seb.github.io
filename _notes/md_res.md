@@ -4,7 +4,7 @@ title: "Markdown Resources"
 date: 2021-01-10
 thumbnail: 
 caption: ""
-card_style: wide
+card_style: text
 ---
 
 <nav>

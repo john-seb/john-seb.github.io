@@ -404,6 +404,23 @@ a.footer:hover {
   object-fit: cover;
 }
 
+/* Text-only card */
+.note-card.text {
+  padding: 18px;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px;
+  background: #fafafa;
+}
+
+.note-card.text .note-title {
+  font-size: 18px;
+}
+
+.note-card.text .note-sub {
+  margin-top: 6px;
+  color: #666;
+}
+
 /* Standard thumbnail fallback */
 .note-thumb {
   width: 100%;
