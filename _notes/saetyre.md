@@ -20,10 +20,9 @@ card_style: wide
 Published in the 2020 yearbook of SAE INDIA CET Chapter
 ---
 
+<img src="/repo/saetyre/page1.jpg" class="content-image" />
+<img src="/repo/saetyre/page2.jpg" class="content-image" />
 
-![***Page 1***](/repo/saetyre/page1.jpg)  
-**** 
-![***Page 2***](/repo/saetyre/page1.jpg) 
  
 Read more: [Tyres: The Science of Black Magic](/repo/saetyre/fulldoc.html)
 
