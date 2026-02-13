@@ -2,9 +2,9 @@
 layout: default
 title: "How to Speak by Patrick Winston"
 date: 2021-01-30
-thumbnail: ""
+thumbnail: 
 caption: ""
-card_style: square
+card_style: wide
 ---
 
 <nav>
@@ -18,7 +18,7 @@ card_style: square
 </nav>
 
 Notes on Prof Patrick Wilson's talk on "How to Speak"
-<hr>
+
 
 ***   
 
