@@ -21,12 +21,22 @@ draft: false
 
 <!-- ![Near-wall geometry](/projects/magballs/thumbnail.png) -->
 
-<img src="/projects/magballs/thumbnail.png" alt="JFM" class="content-image"/>
+<div class="about-flex">
 
-In this study, we investigate the dynamics of particles overcoming the hydrodynamic barrier posed by a thin fluid film to achieve contact in finite time, a phenomenon critical in various natural and engineered processes such as enzyme docking, catalysis, and vesicular transport. Using the framework of lubrication theory, which posits that drag force scales inversely with the film thickness, we explore how particles can achieve finite-time contact despite theoretical predictions of infinite time under constant force. We conduct experiments where a spherical particle settles under gravity and magnetic attraction, the latter introducing a spatially varying force. Our findings reveal that a spatially varying force significantly alters the settling trajectory, enabling finite-time contact. The results are supported by a simple model that links hydrodynamic drag and the impact of spatially varying forces. Finally, we illustrate that forces can be inferred from kinematic observations. In the future, this may provide insights into biological and microscale systems where direct force measurements are challenging. Our study demonstrates that varying forces can be harnessed to overcome lubrication barriers, offering potential applications in designing self-assembly systems and improving surface interaction processes.
+  <div class="about-image">
+    <img src="/projects/magballs/thumbnail.png" alt="JFM" class="content-image"/>
+  </div>
+
+  <div class="about-text">
+    <p>In this study, we investigate the dynamics of particles overcoming the hydrodynamic barrier posed by a thin fluid film to achieve contact in finite time, a phenomenon critical in various natural and engineered processes such as enzyme docking, catalysis, and vesicular transport. Using the framework of lubrication theory, which posits that drag force scales inversely with the film thickness, we explore how particles can achieve finite-time contact despite theoretical predictions of infinite time under constant force. We conduct experiments where a spherical particle settles under gravity and magnetic attraction, the latter introducing a spatially varying force. Our findings reveal that a spatially varying force significantly alters the settling trajectory, enabling finite-time contact. The results are supported by a simple model that links hydrodynamic drag and the impact of spatially varying forces. Finally, we illustrate that forces can be inferred from kinematic observations. In the future, this may provide insights into biological and microscale systems where direct force measurements are challenging. Our study demonstrates that varying forces can be harnessed to overcome lubrication barriers, offering potential applications in designing self-assembly systems and improving surface interaction processes.
+    </p> 
+  </div>
+
+</div>
 
 
 Link to Journal of Fluid Mechanics (JFM) article:[DOI](https://doi.org/10.1017/jfm.2025.10864)
+
 
 <!-- <iframe
   src="/projects/magballs/graphic.pdf"
