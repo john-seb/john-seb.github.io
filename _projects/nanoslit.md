@@ -2,7 +2,7 @@
 layout: default
 title: "Anomalous conductance of 2D nanoslits (graphene)"
 date: 2022-12-02
-thumbnail: /projects/nanoslit/system.png
+thumbnail: /projects/nanoslit/thumbnail.png
 caption: ""
 card_style: square
 math: true
