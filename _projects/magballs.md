@@ -5,15 +5,16 @@ date: 2026-02-12
 thumbnail: /projects/magballs/thumbnail.png
 caption: "Short note on near-wall dynamics + a quick derivation."
 card_style: square
+math: true
+draft: false
 ---
 
 <nav>
 	<ul>
 		<li><a href="/">about</a></li>
-		<li><a href="/research">research</a></li>
+		<li><a id="research" class="active" href="/research">research</a></li>
 		<li><a href="/publications">publications</a></li>
-		<li><a id="writing" class="active" href="/writing">notes/talks</a></li>
-		<!-- <li><a href="/contact">contact</a></li> -->
+		<li><a href="/writing">notes/talks</a></li>
 	</ul>
 </nav>
 

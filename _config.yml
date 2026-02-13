@@ -30,3 +30,7 @@ collections:
   notes:
     output: true
     permalink: /writing/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+

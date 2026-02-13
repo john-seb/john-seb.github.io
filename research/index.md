@@ -14,13 +14,17 @@ permalink: /research/
 	</ul>
 </nav>
 
-### Gallery of recent projects
-
-Form and function through toy problems and actual toys.
 
 
-### Areas of Interest
-+ Fluid Mechanics
-+ Applied Mathematics
-+ Nano, Micro, Bio Fluidics
-+ Plant Biomechanics
+<div class="notes-grid">
+{% assign items = site.projects | sort: "date" | reverse %}
+{% for p in items %}
+  <a class="note-card {{ p.card_style }}" href="{{ p.url | relative_url }}">
+    <img class="note-thumb" src="{{ p.thumbnail | relative_url }}" alt="{{ p.title }}">
+    <div class="note-caption">
+      <div class="note-title">{{ p.title }}</div>
+      {% if p.caption %}<div class="note-sub">{{ p.caption }}</div>{% endif %}
+    </div>
+  </a>
+{% endfor %}
+</div>
