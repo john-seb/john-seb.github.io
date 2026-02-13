@@ -34,7 +34,8 @@ draft: false
 
 </div>
 
-![](/projects/magballs/graphic.png)
+
+<img src="/projects/magballs/graphic.png" class="content-image" />
 
 Link to Journal of Fluid Mechanics (JFM) article:[DOI](https://doi.org/10.1017/jfm.2025.10864)
 
