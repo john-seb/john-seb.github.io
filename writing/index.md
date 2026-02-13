@@ -17,6 +17,9 @@ permalink: /writing/
 
 <div class="notes-grid">
 {% assign items = site.talks | sort: "date" | reverse %}
+  {% if n.thumbnail %}
+    <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
+  {% endif %}
 {% for n in items %}
   <a class="note-card {{ n.card_style }}" href="{{ n.url | relative_url }}">
     <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
@@ -29,8 +32,12 @@ permalink: /writing/
 </div>
 
 ### Notes
+
 <div class="notes-grid">
 {% assign items = site.notes | sort: "date" | reverse %}
+  {% if n.thumbnail %}
+    <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
+  {% endif %}
 {% for n in items %}
   <a class="note-card {{ n.card_style }}" href="{{ n.url | relative_url }}">
     <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">

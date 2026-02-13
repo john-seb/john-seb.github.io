@@ -18,6 +18,9 @@ permalink: /research/
 
 <div class="notes-grid">
 {% assign items = site.projects | sort: "date" | reverse %}
+  {% if n.thumbnail %}
+    <img class="note-thumb" src="{{ n.thumbnail | relative_url }}" alt="{{ n.title }}">
+  {% endif %}
 {% for p in items %}
   <a class="note-card {{ p.card_style }}" href="{{ p.url | relative_url }}">
     <img class="note-thumb" src="{{ p.thumbnail | relative_url }}" alt="{{ p.title }}">
