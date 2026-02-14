@@ -17,7 +17,10 @@ card_style: wide
 	</ul>
 </nav>
 
-Published in the 2020 yearbook of SAE INDIA CET Chapter
+# Tyres: The Science of Black Magic
+
+*Published in the 2020 yearbook of SAE INDIA CET Chapter*
+
 ---
 
 <img src="/repo/saetyre/page1.jpg" class="content-image" />
