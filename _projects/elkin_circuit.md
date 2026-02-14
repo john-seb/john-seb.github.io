@@ -23,7 +23,7 @@ draft: false
 
 *Can nanofluidic systems be accurately represented by electrical circuits?*
 
-<img src="/projects/elkin_circuit/featured.jpeg" class="content-image"/>
+<img src="/projects/elkin_circuit/figure.jpeg" class="content-image"/>
 
 
 
