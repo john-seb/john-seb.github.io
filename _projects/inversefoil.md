@@ -18,7 +18,7 @@ draft: false
 	</ul>
 </nav>
 
-# Inverse design of hydrofoil geometry
+## Inverse design of hydrofoil geometry
 
 *Given a target lift, can we figure out the most suitable foil geometry?*
 

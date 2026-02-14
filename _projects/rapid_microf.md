@@ -19,7 +19,7 @@ draft: false
 </nav>
 
 
-# Rapid and Low- Cost Fabrication of Microfluidic Panels
+## Rapid and Low- Cost Fabrication of Microfluidic Panels
 
 <img src="/projects/rapid_microf/setup.png" class="content-image"/>
 

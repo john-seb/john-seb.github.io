@@ -19,7 +19,7 @@ draft: false
 </nav>
 
 
-# Anomalous conductance of 2D nanoslits (graphene)
+## Anomalous conductance of 2D nanoslits (graphene)
 
 *Does surface charge regulation explain the anomalous conductance of graphene nanoslits?*
 

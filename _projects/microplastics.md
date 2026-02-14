@@ -18,7 +18,7 @@ draft: false
 	</ul>
 </nav>
 
-# Detection of Microplastics in Inland Waters using Impedance Spectroscopy
+## Detection of Microplastics in Inland Waters using Impedance Spectroscopy
 
 *Can microplastics in water bodies be detected leveraging differences in dielectric properties?*
 

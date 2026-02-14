@@ -19,7 +19,7 @@ draft: false
 </nav>
 
 
-# Traversing a thin lubricant film in finite time
+## Traversing a thin lubricant film in finite time
 
 *Can contact between particles in a viscous fluid happen in finite time?*
 
