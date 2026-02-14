@@ -21,6 +21,8 @@ draft: false
 
 ## Rapid and Low- Cost Fabrication of Microfluidic Panels
 
+*Can one make frugal microfluidic devices using materials from the stationery cabinet?*
+
 <img src="/projects/rapid_microf/setup.png" class="content-image"/>
 
 Development of a frugal alternative to the expensive lithographic methods that are the state-of-the-art in the fabrication of microfluidic panels. This approach makes use of a direct cutting scheme in which the device is divided into several 2D panels. Microfluidic channels are narrow as 150 micrometers could be made on these layers with the required precision using a craft cutter with a modified tip.

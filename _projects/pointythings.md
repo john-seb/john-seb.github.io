@@ -20,6 +20,8 @@ draft: false
 
 ## Random wear shapes all pointed tips alike
 
+*How do stochastic mechanical processes shape the natural world?*
+
 <div class="about-flex">
 
   <div class="about-image">
