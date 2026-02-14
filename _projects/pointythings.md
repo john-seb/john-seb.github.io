@@ -3,7 +3,7 @@ layout: default
 title: "Random wear shapes all pointed tips alike"
 date: 2026-02-02
 thumbnail: /projects/pointythings/thumbnail.png
-caption: ""
+caption: "How do stochastic mechanical processes shape the natural world?"
 card_style: square
 math: true
 draft: false

@@ -3,7 +3,7 @@ layout: default
 title: "Detection of Microplastics in Inland Waters using Impedance Spectroscopy"
 date: 2021-10-02
 thumbnail: /projects/microplastics/featured.png
-caption: ""
+caption: "Can microplastics in water bodies be detected leveraging differences in dielectric properties?"
 card_style: square
 math: true
 draft: false

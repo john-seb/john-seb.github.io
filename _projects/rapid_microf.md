@@ -3,7 +3,7 @@ layout: default
 title: "Rapid and Low- Cost Fabrication of Microfluidic Panels"
 date: 2016-10-02
 thumbnail: /projects/rapid_microf/thumbnail.png
-caption: ""
+caption: "Can one make frugal microfluidic devices using materials from the stationery cabinet?"
 card_style: square
 math: true
 draft: false

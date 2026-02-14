@@ -3,7 +3,7 @@ layout: default
 title: "Anomalous conductance of 2D nanoslits"
 date: 2022-12-02
 thumbnail: /projects/nanoslit/thumbnail.png
-caption: ""
+caption: "Does surface charge regulation explain the anomalous conductance of graphene nanoslits?"
 card_style: square
 math: true
 draft: false
