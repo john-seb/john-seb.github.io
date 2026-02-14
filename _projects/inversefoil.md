@@ -3,7 +3,7 @@ layout: default
 title: "Inverse design of hydrofoil geometry"
 date: 2017-5-02
 thumbnail: /projects/inversefoil/invfoil_summary.png
-caption: ""
+caption: "Given a target lift, can we figure out the most suitable foil geometry?"
 card_style: square
 math: true
 draft: false

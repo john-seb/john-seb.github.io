@@ -3,7 +3,7 @@ layout: default
 title: "Traversing a thin lubricant film in finite time"
 date: 2025-10-02
 thumbnail: /projects/magballs/featured.png
-caption: ""
+caption: "Can contact between particles in a viscous fluid happen in finite time?"
 card_style: square
 math: true
 draft: false
