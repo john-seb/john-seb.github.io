@@ -3,7 +3,7 @@ layout: default
 title: "Anomalous conductance of 2D nanoslits"
 date: 2022-12-02
 thumbnail: /projects/nanoslit/thumbnail.png
-caption: "Does surface charge regulation explain the anomalous conductance of graphene nanoslits?"
+caption: "Does surface charge regulation and slip explain the anomalous conductance of graphene nanoslits?"
 card_style: square
 math: true
 draft: false
@@ -21,7 +21,7 @@ draft: false
 
 ## Anomalous conductance of 2D nanoslits (graphene)
 
-*Does surface charge regulation explain the anomalous conductance of graphene nanoslits?*
+*Does surface charge regulation and slip explain the anomalous conductance of graphene nanoslits?*
 
 <img src="/projects/nanoslit/nanoslit_conduct.png" class="content-image"/>
 
