@@ -18,6 +18,7 @@ draft: false
 	</ul>
 </nav>
 
+# Random wear shapes all pointed tips alike
 
 <div class="about-flex">
 

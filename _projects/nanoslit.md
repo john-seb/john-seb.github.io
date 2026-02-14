@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Anomalous conductance of 2D nanoslits (graphene)"
+title: "Anomalous conductance of 2D nanoslits"
 date: 2022-12-02
 thumbnail: /projects/nanoslit/thumbnail.png
 caption: ""
@@ -19,7 +19,9 @@ draft: false
 </nav>
 
 
-<!-- ![Near-wall geometry](/projects/magballs/thumbnail.png) -->
+# Anomalous conductance of 2D nanoslits (graphene)
+
+*Does surface charge regulation explain the anomalous conductance of graphene nanoslits?*
 
 <img src="/projects/nanoslit/nanoslit_conduct.png" class="content-image"/>
 
