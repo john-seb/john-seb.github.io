@@ -27,5 +27,5 @@ card_style: wide
 <img src="/repo/saetyre/page2.jpg" class="content-image" />
 
  
-Read more: [Tyres: The Science of Black Magic](/repo/saetyre/fulldoc.html)
+Read the web version: [Tyres: The Science of Black Magic](/repo/saetyre/fulldoc.html)
 
