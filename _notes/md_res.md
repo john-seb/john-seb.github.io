@@ -46,7 +46,7 @@ These are *shortcuts/ tricks/ resources* that I’ve looked up over time. Just p
 </p>
 ```
 
-Check the [full HTML output](./ref.html) to see how it works. Themes can override the intended output.
+Check the [full HTML output](/repo/rmdref/ref.html) to see how it works. Themes can override the intended output.
 
 
 General styling tweaks are discussed in Section: [Text formatting and
