@@ -17,7 +17,10 @@ card_style: square
 	</ul>
 </nav>
 
+# Lectures: SAE Short Course on Aero Design
+
 One-day Short Course for engineering students from all over Kerala, India. 
+
 <hr>
 The process of designing aerodynamic structures is inherently iterative. This course is intended for the beginner who wishes to understand the math, theory, history and experimental steps in the design of an optimised airfoil. At the end of the course, the students tests a NACA0012 airfoil in the Subsonic wind tunnel at College of Engineering Trivandrum, and compare measured pressure distribution data with their CFD results.
 
