@@ -519,3 +519,7 @@ a.footer:hover {
   opacity: 1;
   transform: translateY(-2px);
 }
+
+.about-image .cv-icon {
+  width: 18px;
+}
