@@ -509,8 +509,8 @@ a.footer:hover {
 }
 
 .cv-icon {
-  width: 18px;
-  height: 18px;
+  width: 28px;
+  height: 28px;
   opacity: 0.5;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
@@ -521,5 +521,5 @@ a.footer:hover {
 }
 
 .about-image .cv-icon {
-  width: 18px;
+  width: 28px;
 }
