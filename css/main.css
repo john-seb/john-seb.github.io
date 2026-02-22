@@ -487,3 +487,35 @@ a.footer:hover {
     margin: 0 auto;
   }
 }
+
+
+/* About image column */
+.about-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Portrait styling */
+.portrait-img {
+  width: 260px;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* CV icon under portrait */
+.cv-link {
+  margin-top: 14px;
+}
+
+.cv-icon {
+  width: 28px;
+  height: auto;
+  opacity: 0.8;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.cv-icon:hover {
+  opacity: 1;
+  transform: translateY(-2px);
+}
