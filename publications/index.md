@@ -71,7 +71,7 @@ permalink: /publications/
     if (p.sci_comm) notesHTML += `<a class="note-link" href="${p.cover}" target="_blank" rel="noopener">Sci-Comm</a> `;
     // keep these optional if you still use them
     if (p.code) notesHTML += `<a class="note-link" href="${p.code}" target="_blank" rel="noopener">code</a> `;
-    if (p.thread) notesHTML += `<a class="note-link" href="${p.thread}" target="_blank" rel="noopener">thread</a> `;
+    if (p.thread) notesHTML += `<a class="note-link" href="${p.thread}" target="_blank" rel="noopener">Sci-Comm</a> `;
     if (p.commentary) notesHTML += `<a class="note-link" href="${p.commentary}" target="_blank" rel="noopener">commentary</a> `;
     if (p.news) notesHTML += `<a class="note-link" href="${p.news}" target="_blank" rel="noopener">news</a>`;
     return notesHTML;
