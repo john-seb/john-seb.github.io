@@ -22,6 +22,8 @@ draft: false
 
 *How do stochastic mechanical processes shape the natural world?*
 
+See: <a href="https://jensen-lab.github.io/Universal_Shape_of_Pointed_Tips/" target="_blank" rel="noopener">Summary and more!</a>
+
 <div class="about-flex">
 
   <div class="about-image">
@@ -49,7 +51,7 @@ draft: false
 
 ----
 
-See: <a href="https://jensen-lab.github.io/Universal_Shape_of_Pointed_Tips/" target="_blank" rel="noopener">Summary and more!</a>
+
 
 ## Popular Summary
 Sharp, spine-like structures, or stingers, are everywhere in nature, appearing in creatures as diverse as tiny zooplankton, elephants, honeybees, and narwhals. These pointed shapes are a prime example of convergent evolution, where different species independently develop similar solutions—in this case, a simple yet effective defence mechanism. Remarkably, a closer look at the tips of these structures reveals a consistent shape: rather than ending in a sharp point, they taper to a rounded cone with a specific geometry. Interestingly, although stingers vary in size, if we rescaled them, they would show the same profile. It has been suggested that similarity across species results from evolutionary selection pressures that favour efficient penetration into soft surfaces.
