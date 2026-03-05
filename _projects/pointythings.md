@@ -22,8 +22,6 @@ draft: false
 
 *How do stochastic mechanical processes shape the natural world?*
 
-See: <a href="https://jensen-lab.github.io/Universal_Shape_of_Pointed_Tips/" target="_blank" rel="noopener">Summary and more!</a>
-
 <div class="about-flex">
 
   <div class="about-image">
@@ -53,12 +51,15 @@ See: <a href="https://jensen-lab.github.io/Universal_Shape_of_Pointed_Tips/" tar
 
 
 
-## Popular Summary
-Sharp, spine-like structures, or stingers, are everywhere in nature, appearing in creatures as diverse as tiny zooplankton, elephants, honeybees, and narwhals. These pointed shapes are a prime example of convergent evolution, where different species independently develop similar solutions—in this case, a simple yet effective defence mechanism. Remarkably, a closer look at the tips of these structures reveals a consistent shape: rather than ending in a sharp point, they taper to a rounded cone with a specific geometry. Interestingly, although stingers vary in size, if we rescaled them, they would show the same profile. It has been suggested that similarity across species results from evolutionary selection pressures that favour efficient penetration into soft surfaces.
+##  Popular Summary 
+
+See: <a href="https://jensen-lab.github.io/Universal_Shape_of_Pointed_Tips/" target="_blank" rel="noopener">Summary and more!</a>
+
+<!-- Sharp, spine-like structures, or stingers, are everywhere in nature, appearing in creatures as diverse as tiny zooplankton, elephants, honeybees, and narwhals. These pointed shapes are a prime example of convergent evolution, where different species independently develop similar solutions—in this case, a simple yet effective defence mechanism. Remarkably, a closer look at the tips of these structures reveals a consistent shape: rather than ending in a sharp point, they taper to a rounded cone with a specific geometry. Interestingly, although stingers vary in size, if we rescaled them, they would show the same profile. It has been suggested that similarity across species results from evolutionary selection pressures that favour efficient penetration into soft surfaces.
 
 However, our research shows that these characteristic tip shapes arise from a simpler, underlying physical process – random wear. Using model experiments and continuum theory, we demonstrate that random weathering alone can produce this universal shape, regardless of material or structure. This convergent form isn’t unique to stingers; the same shape appears in natural structures like icicles and stone pinnacles formed by erosion. To recreate this in the lab, we exposed sharpened pencil tips – a model stinger – to random collisions and vibrations for hours, observing as they transformed over time into the same universal profile.
 
-Our findings suggest that the consistent shape of these pointed tips across diverse forms is not the result of evolutionary selection but rather an inevitable consequence of random wear — a compelling example of how stochastic processes can sculpt the natural world into strikingly similar forms, reminding us that some coincidences are simply random.
+Our findings suggest that the consistent shape of these pointed tips across diverse forms is not the result of evolutionary selection but rather an inevitable consequence of random wear — a compelling example of how stochastic processes can sculpt the natural world into strikingly similar forms, reminding us that some coincidences are simply random. -->
 
 <img src="/projects/pointythings/gallery_soft_matter.png" class="content-image"/>
 [APS Gallery of Soft Matter 2025 | Poster](https://engage.aps.org/dsoft/gallery/gallery/mm25-gallery)

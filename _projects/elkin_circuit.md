@@ -33,7 +33,7 @@ Nanofluidic systems exhibit transport characteristics that have made technologic
 
 <!-- Supervisor: [Prof Yoav Green, Fluid Mechanics Laboratory](https://fluidmechlab.wordpress.com/) -->
 
-Link to Advanced Physics Research article:[DOI](https://doi.org/10.1002/apxr.2023000440)
+Link to Advanced Physics Research article:[DOI](https://doi.org/10.1002/apxr.202300044)
 
 Featured on the cover page of the issue:[Adv. Phys. Res.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/apxr.202370020)
 
