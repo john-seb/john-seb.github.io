@@ -61,6 +61,6 @@ Steven Weinberg's Advice to Students at the start of their Scientific Careers
 
 
 
-[Link to Nature Article: Four Golden Lessons](https://www.nature.com/articles/426389a.pdf)      
+[Link to original article: Four Golden Lessons](https://www.nature.com/articles/426389a.pdf)      
 [Remembering Weinberg 1933-2021](https://physicsworld.com/a/steven-weinberg-probably-the-greatest-theorist-of-his-age/)       
 [Architect of the Standard Model dies at 88](https://www.aps.org/publications/apsnews/updates/weinberg-obit.cfm)        
