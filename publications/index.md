@@ -27,7 +27,7 @@ permalink: /publications/
 	<li>
 		<p>
 			<strong>J Sebastian</strong>, HA Stone, KH Jensen.
-			Electrokinetic constaints on intercellular signalling in plants.
+			Electrokinetic constraints on intercellular signalling in plants.
 		</p>
 	</li>
 </ol>
