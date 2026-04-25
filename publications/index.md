@@ -33,7 +33,74 @@ permalink: /publications/
 </ol>
 
 
+
 <script>
+  // Highlight my name
+  function boldName(text) {
+    return text.replace(/J Sebastian/g, '<strong>J Sebastian</strong>');
+  }
+
+  // Replace * with superscript
+  function replaceAsterisk(text) {
+    return text.replace(/\*/g, '<sup>*</sup>');
+  }
+
+  // Apply both transformations
+  function process(text) {
+    return replaceAsterisk(boldName(text));
+  }
+
+  // Choose best URL (DOI preferred)
+  function titleHref(p) {
+    return p.text || p.arxiv || p.cover || "";
+  }
+
+  // Link the journal (instead of title)
+  function renderJournal(p) {
+    const href = titleHref(p);
+    if (!href) return p.journal;
+    return `<a href="${href}" target="_blank" rel="noopener">${p.journal}</a>`;
+  }
+
+  // Render pills for www / arXiv / cover
+  function renderNotes(p) {
+    let notesHTML = '';
+    if (p.text)  notesHTML += `<a class="note-link" href="${p.text}" target="_blank" rel="noopener">www</a> `;
+    if (p.arxiv) notesHTML += `<a class="note-link" href="${p.arxiv}" target="_blank" rel="noopener">arXiv</a> `;
+    if (p.cover) notesHTML += `<a class="note-link" href="${p.cover}" target="_blank" rel="noopener">cover</a> `;
+    if (p.sci_comm) notesHTML += `<a class="note-link" href="${p.sci_comm}" target="_blank" rel="noopener">Sci-Comm</a> `;
+    if (p.code) notesHTML += `<a class="note-link" href="${p.code}" target="_blank" rel="noopener">code</a> `;
+    if (p.thread) notesHTML += `<a class="note-link" href="${p.thread}" target="_blank" rel="noopener">thread</a> `;
+    if (p.commentary) notesHTML += `<a class="note-link" href="${p.commentary}" target="_blank" rel="noopener">commentary</a> `;
+    if (p.news) notesHTML += `<a class="note-link" href="${p.news}" target="_blank" rel="noopener">news</a>`;
+    return notesHTML;
+  }
+
+  const pubsUrl = "{{ '/publications/publications.json' | relative_url }}";
+
+  fetch(pubsUrl)
+    .then(response => response.json())
+    .then(pubs => {
+      const list = document.getElementById('pubList');
+
+      pubs.forEach(p => {
+        let liHTML = `<p>
+          ${process(p.authors)}.
+          ${process(p.title)}.
+          ${renderJournal(p)}
+          ${renderNotes(p)}
+        </p>`;
+
+        const li = document.createElement('li');
+        li.innerHTML = liHTML;
+        list.appendChild(li);
+      });
+    })
+    .catch(err => console.error("Error loading publications.json:", err));
+</script>
+
+<!-- old -->
+<!-- <script>
   // Highlight my name
   function boldName(text) {
     return text.replace(/J Sebastian/g, '<strong>J Sebastian</strong>');
@@ -100,7 +167,7 @@ permalink: /publications/
       });
     })
     .catch(err => console.error("Error loading publications.json:", err));
-</script>
+</script> -->
 
 
 
